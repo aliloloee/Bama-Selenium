@@ -1,0 +1,166 @@
+{
+    "تهران": {
+        "همه شهرهای تهران": "tehran",
+        "ورامین": "tehran-varamin",
+        "پاکدشت": "tehran-pakdasht",
+        "اسلام شهر": "tehran-eslamshahr",
+        "ری": "tehran-rey",
+        "تهران": "tehran-tehran",
+        "شهریار": "tehran-shahriar",
+        "قدس": "tehran-quds",
+        "ملارد": "tehran-malard",
+        "رودهن": "tehran-rudehen",
+        "فیروزکوه": "tehran-firuzkuh",
+        "شمیرانات": "tehran-shemiran",
+        "پیشوا": "tehran-pishva",
+        "لواسان": "tehran-lavasan"
+    },
+    "آذربایجان شرقی": {
+        "همه شهرهای آذربایجان شرقی": "azarbaijan_sharghi",
+        "مراغه": "azarbaijan_sharghi-maragheh",
+        "میانه": "azarbaijan_sharghi-mianeh",
+        "تبریز": "azarbaijan_sharghi-tabriz"
+    },
+    "آذربایجان غربی": {
+        "همه شهرهای آذربایجان غربی": "azarbaijan_gharbi",
+        "پیرانشهر": "azarbaijan_gharbi-piranshahr"
+    },
+    "اردبیل": {
+        "همه شهرهای اردبیل": "ardebil",
+        "گرمی یا مغان": "ardebil-germi_mughan",
+        "پارس آباد": "ardebil-parsabad"
+    },
+    "اصفهان": {
+        "همه شهرهای اصفهان": "isfahan",
+        "فلاورجان": "isfahan-falavarjan",
+        "اصفهان": "isfahan-isfahan",
+        "نجف آباد": "isfahan-najafabad",
+        "اردستان": "isfahan-ardestan",
+        "گلپایگان": "isfahan-golpayegan",
+        "خور و بیابانک": "isfahan-khour_biabanak",
+        "کاشان": "isfahan-kashan",
+        "خمینی شهر": "isfahan-khomeyni_shahr",
+        "گز": "isfahan-gaz"
+    },
+    "بوشهر": {
+        "همه شهرهای بوشهر": "bushehr",
+        "جم": "bushehr-jam",
+        "کنگان": "bushehr-kangan"
+    },
+    "چهارمحال و بختیاری": {
+        "همه شهرهای چهارمحال و بختیاری": "chaharmahal_bakhtiari",
+        "شهرکرد": "chaharmahal_bakhtiari-shahrekord"
+    },
+    "خوزستان": {
+        "همه شهرهای خوزستان": "khuzestan",
+        "امیدیه": "khuzestan-omidiyeh",
+        "اهواز": "khuzestan-ahvaz",
+        "دزفول": "khuzestan-dezful"
+    },
+    "زنجان": {
+        "همه شهرهای زنجان": "zanjan",
+        "زنجان": "zanjan-zanjan"
+    },
+    "سمنان": {
+        "همه شهرهای سمنان": "semnan",
+        "سمنان": "semnan-semnan",
+        "دامغان": "semnan-damghan",
+        "شاهرود": "semnan-shahroud"
+    },
+    "فارس": {
+        "همه شهرهای فارس": "fars",
+        "لارستان": "fars-larestan",
+        "کازرون": "fars-kazerun",
+        "شیراز": "fars-shiraz"
+    },
+    "قزوین": {
+        "همه شهرهای قزوین": "qazvin",
+        "تاکستان": "qazvin-takestan",
+        "قزوین": "qazvin-qazvin"
+    },
+    "کردستان": {
+        "همه شهرهای کردستان": "kordestan",
+        "بانه": "kordestan-baneh",
+        "سقز": "kordestan-saqqez"
+    },
+    "کرمان": {
+        "همه شهرهای کرمان": "kerman",
+        "کرمان": "kerman-kerman"
+    },
+    "کرمانشاه": {
+        "همه شهرهای کرمانشاه": "kermanshah",
+        "کرمانشاه": "kermanshah-kermanshah"
+    },
+    "گلستان": {
+        "همه شهرهای گلستان": "golestan",
+        "علی آباد": "golestan-aliabad",
+        "گنبد کاووس": "golestan-gonbad_kavus"
+    },
+    "گیلان": {
+        "همه شهرهای گیلان": "gilan",
+        "رودسر": "gilan-rudsar",
+        "لاهیجان": "gilan-lahijan",
+        "رشت": "gilan-rasht",
+        "تالش": "gilan-talesh",
+        "آستارا": "gilan-astara",
+        "بندرانزلی": "gilan-bandar_anzali"
+    },
+    "لرستان": {
+        "همه شهرهای لرستان": "lorestan",
+        "ازنا": "lorestan-azna"
+    },
+    "مازندران": {
+        "همه شهرهای مازندران": "mazandaran",
+        "آمل": "mazandaran-amol",
+        "نور": "mazandaran-nur",
+        "ساری": "mazandaran-sari",
+        "قائم شهر": "mazandaran-qaemshahr",
+        "چالوس": "mazandaran-chalus",
+        "بابل": "mazandaran-babol",
+        "نوشهر": "mazandaran-nowshahr",
+        "بابلسر": "mazandaran-babolsar",
+        "تنکابن": "mazandaran-tonekabon"
+    },
+    "مرکزی": {
+        "همه شهرهای مرکزی": "markazi",
+        "خمین": "markazi-khomein",
+        "ساوه": "markazi-saveh",
+        "زرندیه": "markazi-zarandieh"
+    },
+    "هرمزگان": {
+        "همه شهرهای هرمزگان": "hormozgan",
+        "قشم": "hormozgan-qeshm",
+        "بندرعباس": "hormozgan-bandar_abbas"
+    },
+    "همدان": {
+        "همه شهرهای همدان": "hamedan",
+        "همدان": "hamedan-hamedan",
+        "بهار": "hamedan-bahar"
+    },
+    "یزد": {
+        "همه شهرهای یزد": "yazd",
+        "یزد": "yazd-yazd",
+        "مهریز": "yazd-mehriz"
+    },
+    "البرز": {
+        "همه شهرهای البرز": "alborz",
+        "کرج": "alborz-karaj",
+        "نظرآباد": "alborz-nazarabad",
+        "هشتگرد": "alborz-hashtgerd"
+    },
+    "خراسان شمالی": {
+        "همه شهرهای خراسان شمالی": "north_khorasan",
+        "شیروان": "north_khorasan-shirvan"
+    },
+    "خراسان رضوی": {
+        "همه شهرهای خراسان رضوی": "razavi_khorasan",
+        "نیشابور": "razavi_khorasan-neyshabur",
+        "بجستان": "razavi_khorasan-bajestan",
+        "سبزوار": "razavi_khorasan-sabzevar",
+        "مشهد": "razavi_khorasan-mashhad"
+    },
+    "خراسان جنوبی": {
+        "همه شهرهای خراسان جنوبی": "south_khorasan",
+        "بیرجند": "south_khorasan-birjand"
+    }
+}

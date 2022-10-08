@@ -1,0 +1,644 @@
+{
+    "نوع بدنه": {
+        "query_keyword": "body",
+        "details": [
+            {
+                "name": "سدان",
+                "query_param": "passenger_car"
+            },
+            {
+                "name": "شاسی بلند‌",
+                "query_param": "suv"
+            },
+            {
+                "name": "هاچبک",
+                "query_param": "hatchback"
+            },
+            {
+                "name": "وانت",
+                "query_param": "pickup"
+            },
+            {
+                "name": "كوپه",
+                "query_param": "coupe"
+            },
+            {
+                "name": "کروک",
+                "query_param": "convertible"
+            },
+            {
+                "name": "ون",
+                "query_param": "van"
+            }
+        ]
+    },
+    "رنگ بدنه": {
+        "query_keyword": "color",
+        "details": [
+            {
+                "name": "سفید",
+                "query_param": "white",
+                "color_code": "rgb(255, 255, 255)"
+            },
+            {
+                "name": "مشکی",
+                "query_param": "black",
+                "color_code": "rgb(29, 29, 27)"
+            },
+            {
+                "name": "خاکستری",
+                "query_param": "gray",
+                "color_code": "rgb(112, 111, 111)"
+            },
+            {
+                "name": "نقره ای",
+                "query_param": "silver",
+                "color_code": "rgb(202, 202, 202)"
+            },
+            {
+                "name": "سفید صدفی",
+                "query_param": "pearlwhite",
+                "color_code": "rgb(255, 246, 246)"
+            },
+            {
+                "name": "نوک مدادی",
+                "query_param": "blacklead",
+                "color_code": "rgb(73, 75, 74)"
+            },
+            {
+                "name": "آبی",
+                "query_param": "blue",
+                "color_code": "rgb(0, 68, 224)"
+            },
+            {
+                "name": "قهوه ای",
+                "query_param": "brown",
+                "color_code": "rgb(112, 16, 9)"
+            },
+            {
+                "name": "قرمز",
+                "query_param": "red",
+                "color_code": "rgb(255, 16, 9)"
+            },
+            {
+                "name": "بژ",
+                "query_param": "beige",
+                "color_code": "rgb(207, 177, 124)"
+            },
+            {
+                "name": "سرمه ای",
+                "query_param": "darkblue",
+                "color_code": "rgb(15, 55, 97)"
+            },
+            {
+                "name": "سربی",
+                "query_param": "slategray",
+                "color_code": "rgb(111, 122, 152)"
+            },
+            {
+                "name": "تیتانیوم",
+                "query_param": "titanium",
+                "color_code": "rgb(178, 178, 178)"
+            },
+            {
+                "name": "یشمی",
+                "query_param": "jadegreen",
+                "color_code": "rgb(70, 133, 101)"
+            },
+            {
+                "name": "آلبالویی",
+                "query_param": "maroon",
+                "color_code": "rgb(178, 0, 57)"
+            },
+            {
+                "name": "بادمجانی",
+                "query_param": "eggplant",
+                "color_code": "rgb(84, 0, 65)"
+            },
+            {
+                "name": "ذغالی",
+                "query_param": "charcoal",
+                "color_code": "rgb(38, 41, 42)"
+            },
+            {
+                "name": "زرد",
+                "query_param": "yellow",
+                "color_code": "rgb(255, 242, 13)"
+            },
+            {
+                "name": "کربن بلک",
+                "query_param": "carbonblack",
+                "color_code": "rgb(87, 87, 86)"
+            },
+            {
+                "name": "سبز",
+                "query_param": "green",
+                "color_code": "rgb(0, 159, 2)"
+            },
+            {
+                "name": "دلفینی",
+                "query_param": "dolohin",
+                "color_code": "rgb(164, 172, 177)"
+            },
+            {
+                "name": "نقرآبی",
+                "query_param": "steelblue",
+                "color_code": "rgb(131, 146, 155)"
+            },
+            {
+                "name": "مسی",
+                "query_param": "copper",
+                "color_code": "rgb(238, 82, 9)"
+            },
+            {
+                "name": "زیتونی",
+                "query_param": "olivegreen",
+                "color_code": "rgb(157, 138, 40)"
+            },
+            {
+                "name": "اطلسی",
+                "query_param": "satin",
+                "color_code": "rgb(83, 133, 163)"
+            },
+            {
+                "name": "نارنجی",
+                "query_param": "orange",
+                "color_code": "rgb(223, 118, 27)"
+            },
+            {
+                "name": "طوسی",
+                "query_param": "darkgray",
+                "color_code": "rgb(157, 157, 156)"
+            },
+            {
+                "name": "کرم",
+                "query_param": "bisque",
+                "color_code": "rgb(223, 211, 153)"
+            },
+            {
+                "name": "گیلاسی",
+                "query_param": "cherry",
+                "color_code": "rgb(176, 45, 90)"
+            },
+            {
+                "name": "عنابی",
+                "query_param": "darkred",
+                "color_code": "rgb(116, 43, 38)"
+            },
+            {
+                "name": "زرشکی",
+                "query_param": "crimson",
+                "color_code": "rgb(166, 43, 38)"
+            },
+            {
+                "name": "طلائی",
+                "query_param": "golden",
+                "color_code": "rgb(222, 165, 81)"
+            },
+            {
+                "name": "خاکی",
+                "query_param": "khaki",
+                "color_code": "rgb(116, 70, 75)"
+            },
+            {
+                "name": "بنفش",
+                "query_param": "purple",
+                "color_code": "rgb(116, 28, 174)"
+            },
+            {
+                "name": "برنز",
+                "query_param": "bronze",
+                "color_code": "rgb(149, 109, 55)"
+            },
+            {
+                "name": "موکا",
+                "query_param": "mocha",
+                "color_code": "rgb(175, 137, 113)"
+            },
+            {
+                "name": "پوست پیازی",
+                "query_param": "onion",
+                "color_code": "rgb(116, 57, 84)"
+            }
+        ]
+    },
+    "وضعیت بدنه": {
+        "query_keyword": "status",
+        "details": [
+            {
+                "name": "بدون رنگ",
+                "query_param": "no_paint"
+            },
+            {
+                "name": "یک لکه رنگ",
+                "query_param": "one_paint"
+            },
+            {
+                "name": "چند لکه رنگ",
+                "query_param": "multi_paint"
+            },
+            {
+                "name": "دو لکه رنگ",
+                "query_param": "two_paint"
+            },
+            {
+                "name": "صافکاری بدون رنگ",
+                "query_param": "refinement"
+            },
+            {
+                "name": "دور رنگ",
+                "query_param": "around_paint"
+            },
+            {
+                "name": "گلگیر رنگ",
+                "query_param": "fender_paint"
+            },
+            {
+                "name": "کاپوت تعویض",
+                "query_param": "hood_replace"
+            },
+            {
+                "name": "گلگیر تعویض",
+                "query_param": "fender_replace"
+            },
+            {
+                "name": "کامل رنگ",
+                "query_param": "full_paint"
+            },
+            {
+                "name": "کاپوت رنگ",
+                "query_param": "hood_paint"
+            },
+            {
+                "name": "یک درب رنگ",
+                "query_param": "one_door"
+            },
+            {
+                "name": "درب تعویض",
+                "query_param": "door_replace"
+            },
+            {
+                "name": "دو درب رنگ",
+                "query_param": "two_door"
+            },
+            {
+                "name": "تصادفی",
+                "query_param": "crashed"
+            },
+            {
+                "name": "اتاق تعویض",
+                "query_param": "room_replace"
+            },
+            {
+                "name": "سوخته",
+                "query_param": "burned"
+            },
+            {
+                "name": "اوراقی",
+                "query_param": "scrap"
+            }
+        ]
+    },
+    "گیربکس": {
+        "query_keyword": "transmission",
+        "details": [
+            {
+                "name": "اتوماتیک",
+                "query_param": "automatic"
+            },
+            {
+                "name": "دنده ای",
+                "query_param": "manual"
+            }
+        ]
+    },
+    "سوخت": {
+        "query_keyword": "fuel",
+        "details": [
+            {
+                "name": "بنزینی",
+                "query_param": "gasoline"
+            },
+            {
+                "name": "دوگانه سوز",
+                "query_param": "cng_gasoline"
+            },
+            {
+                "name": "هیبریدی",
+                "query_param": "hybrid"
+            },
+            {
+                "name": "دیزلی",
+                "query_param": "diesel"
+            }
+        ]
+    },
+    "تعداد سیلندر": {
+        "query_keyword": "cylinder",
+        "details": [
+            {
+                "name": "4 سیلندر",
+                "query_param": "4"
+            },
+            {
+                "name": "6 سیلندر",
+                "query_param": "6"
+            },
+            {
+                "name": "8 سیلندر",
+                "query_param": "8"
+            },
+            {
+                "name": "3 سیلندر",
+                "query_param": "3"
+            },
+            {
+                "name": "5 سیلندر",
+                "query_param": "5"
+            }
+        ]
+    },
+    "حجم موتور": {
+        "query_keyword": "engine",
+        "details": [
+            {
+                "name": "1300 تا 1700",
+                "query_param": "1300-1699"
+            },
+            {
+                "name": "1700 تا 2000",
+                "query_param": "1700-1999"
+            },
+            {
+                "name": "2000 تا 2500",
+                "query_param": "2000-2499"
+            },
+            {
+                "name": "2500 به بالا",
+                "query_param": "2500-10000"
+            },
+            {
+                "name": "کمتر از 1300",
+                "query_param": "0-1300"
+            }
+        ]
+    },
+    "دیفرانسیل": {
+        "query_keyword": "drive",
+        "details": [
+            {
+                "name": "تک دیفرانسیل",
+                "query_param": "1"
+            },
+            {
+                "name": "دو دیفرانسیل",
+                "query_param": "2"
+            },
+            {
+                "name": "تمام چرخ متحرک",
+                "query_param": "3"
+            }
+        ]
+    },
+    "کلاس اقتصادی": {
+        "query_keyword": "expense",
+        "details": [
+            {
+                "name": "اقتصادی",
+                "query_param": "1"
+            },
+            {
+                "name": "لوکس",
+                "query_param": "2"
+            },
+            {
+                "name": "کم مصرف",
+                "query_param": "3"
+            }
+        ]
+    },
+    "کشور سازنده": {
+        "query_keyword": "country",
+        "details": [
+            {
+                "name": "ایرانی",
+                "query_param": "iranian"
+            },
+            {
+                "name": "چینی",
+                "query_param": "chinese"
+            },
+            {
+                "name": "کره ای",
+                "query_param": "korean"
+            },
+            {
+                "name": "ژاپنی",
+                "query_param": "japanese"
+            },
+            {
+                "name": "آلمانی",
+                "query_param": "german"
+            },
+            {
+                "name": "فرانسوی",
+                "query_param": "french"
+            },
+            {
+                "name": "انگلیسی",
+                "query_param": "english"
+            },
+            {
+                "name": "ایتالیایی",
+                "query_param": "italian"
+            },
+            {
+                "name": "سوئدی",
+                "query_param": "sweden"
+            },
+            {
+                "name": "آمریکایی",
+                "query_param": "american"
+            },
+            {
+                "name": "مالزیایی",
+                "query_param": "malaysian"
+            },
+            {
+                "name": "روسی",
+                "query_param": "russian"
+            },
+            {
+                "name": "اسپانیایی",
+                "query_param": "spanish"
+            },
+            {
+                "name": "تایوان",
+                "query_param": "taiwan"
+            }
+        ]
+    },
+    "شرکت سازنده": {
+        "query_keyword": "company",
+        "details": [
+            {
+                "name": "ایران خودرو",
+                "query_param": "iran-khodro"
+            },
+            {
+                "name": "سایپا",
+                "query_param": "saipa"
+            },
+            {
+                "name": "کرمان موتور",
+                "query_param": "kerman"
+            },
+            {
+                "name": "بهمن موتور",
+                "query_param": "bahman-motor"
+            },
+            {
+                "name": "مدیران خودرو",
+                "query_param": "modiran"
+            },
+            {
+                "name": "پارس خودرو",
+                "query_param": "pars-khodro"
+            },
+            {
+                "name": "زامیاد",
+                "query_param": "zamyad"
+            },
+            {
+                "name": "خودروسازی فردا",
+                "query_param": "khodrosazi-farda"
+            },
+            {
+                "name": "خودروسازان بم",
+                "query_param": "bam"
+            },
+            {
+                "name": "خودروسازان راین",
+                "query_param": "rayen"
+            },
+            {
+                "name": "سیف خودرو",
+                "query_param": "seif-khodro"
+            },
+            {
+                "name": "ایلیا موتور",
+                "query_param": "ilia-auto"
+            },
+            {
+                "name": "رامک خودرو",
+                "query_param": "ramak-khodro"
+            },
+            {
+                "name": "مرتب خودرو",
+                "query_param": "moratab-khodro"
+            },
+            {
+                "name": "گروه صنعتی آمیکو",
+                "query_param": "amico"
+            },
+            {
+                "name": "دیار خودرو",
+                "query_param": "diar-khodro"
+            },
+            {
+                "name": "کارمانیا",
+                "query_param": "carmania"
+            },
+            {
+                "name": "مکث موتور",
+                "query_param": "max-motor"
+            },
+            {
+                "name": "ریگان خودرو",
+                "query_param": "rigan-khodro"
+            },
+            {
+                "name": "زاگرس خودرو",
+                "query_param": "zagros"
+            },
+            {
+                "name": "آرین پارس موتور",
+                "query_param": "arian-pars-motor"
+            },
+            {
+                "name": "ایران خودرو دیزل",
+                "query_param": "iran-khodro-diesel"
+            },
+            {
+                "name": "آذویکو",
+                "query_param": "azooiko"
+            },
+            {
+                "name": "سروش دیزل",
+                "query_param": "soroush-diesel"
+            },
+            {
+                "name": "عظیم خودرو",
+                "query_param": "azim-khodro"
+            },
+            {
+                "name": "خودروسازی صنعت پارس",
+                "query_param": "saanat-pars"
+            },
+            {
+                "name": "پویا گستر گرمسار",
+                "query_param": "pooya-gostar"
+            },
+            {
+                "name": "کیش خودرو",
+                "query_param": "kish"
+            },
+            {
+                "name": "خودروسازی اسنا",
+                "query_param": "asna"
+            },
+            {
+                "name": "سناباد خودرو",
+                "query_param": "sanabad"
+            },
+            {
+                "name": "خودروسازی یزد",
+                "query_param": "khodrosazi-yazd"
+            }
+        ]
+    },
+    "نوع تولید": {
+        "query_keyword": "origin",
+        "details": [
+            {
+                "name": "داخلی",
+                "query_param": "1"
+            },
+            {
+                "name": "وارداتی",
+                "query_param": "2"
+            },
+            {
+                "name": "مونتاژ",
+                "query_param": "3"
+            }
+        ]
+    },
+    "موارد خاص": {
+        "query_keyword": "special",
+        "details": [
+            {
+                "name": "آفرود",
+                "query_param": "offroad"
+            },
+            {
+                "name": "کلاسيک",
+                "query_param": "collectable"
+            },
+            {
+                "name": "منطقه آزاد",
+                "query_param": "free_zone"
+            }
+        ]
+    }
+}

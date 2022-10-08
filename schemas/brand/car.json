@@ -1,0 +1,1879 @@
+{
+    "آئودی": {
+        "همه مدل های آئودی": "audi",
+        "آئودی A4": "audi-a4",
+        "آئودی A6": "audi-a6",
+        "آئودی Q5": "audi-q5",
+        "آئودی TT کروک": "audi-ttconvertible"
+    },
+    "آریسان": {
+        "همه مدل های آریسان": "arisun",
+        "آریسان دوگانه سوز": {
+            "همه نوع آریسان دوگانه سوز": "arisun-arisan",
+            "آریسان دوگانه سوز 1.7 لیتر": "arisun-arisan-1.7liter"
+        }
+    },
+    "آلفارومئو": {
+        "همه مدل های آلفارومئو": "alfaromeo",
+        "آلفارومئو 4C": "alfaromeo-4c",
+        "آلفارومئو جولیتا": "alfaromeo-giulietta",
+        "آلفارومئو میتو": "alfaromeo-mito"
+    },
+    "آمیکو": {
+        "همه مدل های آمیکو": "amico",
+        "آمیکو دو کابین آسنا": {
+            "همه نوع آمیکو دو کابین آسنا": "amico-asna4door",
+            "آمیکو دو کابین آسنا اتوماتیک": "amico-asna4door-at",
+            "آمیکو دو کابین آسنا دنده ای": "amico-asna4door-mt"
+        }
+    },
+    "اپل": {
+        "همه مدل های اپل": "opel",
+        "اپل آسترا سدان": {
+            "همه نوع اپل آسترا سدان": "opel-astrasedan",
+            "اپل آسترا سدان 1.4 لیتر": "opel-astrasedan-1.4l",
+            "اپل آسترا سدان 1.6 لیتر": "opel-astrasedan-1.6l"
+        },
+        "اپل آسترا ناچ بک": "opel-astranotchback",
+        "اپل رکورد": "opel-rekord",
+        "اپل کورسا": {
+            "همه نوع اپل کورسا": "opel-corsa",
+            "اپل کورسا اتوماتیک": "opel-corsa-at",
+            "اپل کورسا دنده ای": "opel-corsa-mt"
+        },
+        "اپل موکا": "opel-mokka",
+        "اپل وکترا": "opel-vectra",
+        "اپل GT": "opel-gt"
+    },
+    "اس دبلیو ام": {
+        "همه مدل های اس دبلیو ام": "swm",
+        "اس دبلیو ام G01": "swm-g01",
+        "اس دبلیو ام G01F": "swm-g01f"
+    },
+    "اسمارت": {
+        "همه مدل های اسمارت": "smart",
+        "اسمارت فور 4": "smart-forfour"
+    },
+    "الدزمبیل": {
+        "همه مدل های الدزمبیل": "oldsmobile",
+        "الدزمبیل کاتلاس سیرا": "oldsmobile-ciera"
+    },
+    "ام جی": {
+        "همه مدل های ام جی": "mg",
+        "ام جی 3": "mg-3",
+        "ام جی 350": "mg-350",
+        "ام جی 360": {
+            "همه نوع ام جی 360": "mg-360",
+            "ام جی 360 اتوماتیک توربو": "mg-360-atturbo",
+            "ام جی 360 اتوماتیک ساده": "mg-360-atbasic",
+            "ام جی 360 دنده ای ساده": "mg-360-mtbasic"
+        },
+        "ام جی 550": "mg-550",
+        "ام جی 6": {
+            "همه نوع ام جی 6": "mg-6",
+            "ام جی 6 مگنت": "mg-6-magnette",
+            "ام جی 6 GT": "mg-6-gt",
+            "ام جی 6 GT نیوفیس": "mg-6-gtnewface"
+        },
+        "ام جی گوناگون": "mg-misc",
+        "ام جی GS": "mg-gs",
+        "ام جی GT": "mg-gt",
+        "ام جی RX5": "mg-rx5"
+    },
+    "ام وی ام": {
+        "همه مدل های ام وی ام": "mvm",
+        "ام وی ام 110": {
+            "همه نوع ام وی ام 110": "mvm-110",
+            "ام وی ام 110 3 سیلندر": "mvm-110-3cylinder",
+            "ام وی ام 110 4 سیلندر اتوماتیک": "mvm-110-4cylinderat",
+            "ام وی ام 110 4 سیلندر دنده ای": "mvm-110-4cylindermt"
+        },
+        "ام وی ام 110S": {
+            "همه نوع ام وی ام 110S": "mvm-110s",
+            "ام وی ام 110S کامفورت": "mvm-110s-comfort",
+            "ام وی ام 110S لاکچری": "mvm-110s-luxury"
+        },
+        "ام وی ام 315 صندوق دار": {
+            "همه نوع ام وی ام 315 صندوق دار": "mvm-315sedan",
+            "ام وی ام 315 صندوق دار اسپرت": "mvm-315sedan-sport",
+            "ام وی ام 315 صندوق دار ساده": "mvm-315sedan-basic"
+        },
+        "ام وی ام 315هاچ بک": {
+            "همه نوع ام وی ام 315هاچ بک": "mvm-315hatchback",
+            "ام وی ام 315هاچ بک اسپرت اکسلنت": "mvm-315hatchback-sport",
+            "ام وی ام 315هاچ بک اسپرت لاکچری": "mvm-315hatchback-sportluxury",
+            "ام وی ام 315هاچ بک پلاس": "mvm-315hatchback-plus",
+            "ام وی ام 315هاچ بک ساده": "mvm-315hatchback-basic"
+        },
+        "ام وی ام 530": "mvm-530",
+        "ام وی ام 550": {
+            "همه نوع ام وی ام 550": "mvm-550",
+            "ام وی ام 550 اتوماتیک": "mvm-550-at",
+            "ام وی ام 550 دنده ای": "mvm-550-mt"
+        },
+        "ام وی ام X22": {
+            "همه نوع ام وی ام X22": "mvm-x22",
+            "ام وی ام X22 اتوماتیک  اسپرت اکسلنت": "mvm-x22-atsportexcellent",
+            "ام وی ام X22 اتوماتیک اسپرت": "mvm-x22-atsport",
+            "ام وی ام X22 اتوماتیک اسپرت لاکچری": "mvm-x22-atsportluxury",
+            "ام وی ام X22 اتوماتیک ساده": "mvm-x22-atbasic",
+            "ام وی ام X22 اتوماتیک لاکچری": "mvm-x22-atluxury",
+            "ام وی ام X22 دنده ای اسپرت اکسلنت": "mvm-x22-mtsportexcellent",
+            "ام وی ام X22 دنده ای اسپرت لاکچری": "mvm-x22-mtsportluxury",
+            "ام وی ام X22 دنده ای ساده": "mvm-x22-mtbasic",
+            "ام وی ام X22 دنده ای لاکچری": "mvm-x22-mtluxury"
+        },
+        "ام وی ام X22 PRO": {
+            "همه نوع ام وی ام X22 PRO": "mvm-x22pro",
+            "ام وی ام X22 PRO اکسلنت": "mvm-x22pro-excellent",
+            "ام وی ام X22 PRO IE": "mvm-x22pro-ie"
+        },
+        "ام وی ام X33": {
+            "همه نوع ام وی ام X33": "mvm-x33",
+            "ام وی ام X33 اتوماتیک": "mvm-x33-at",
+            "ام وی ام X33 دنده ای": "mvm-x33-mt"
+        },
+        "ام وی ام X33 S": {
+            "همه نوع ام وی ام X33 S": "mvm-x33s",
+            "ام وی ام X33 S 5 سرعته اتوماتیک": "mvm-x33s-at5speed",
+            "ام وی ام X33 S توربو": "mvm-x33s-turbo",
+            "ام وی ام X33 S گیربکس CVT": "mvm-x33s-atsport"
+        },
+        "ام وی ام x55": {
+            "همه نوع ام وی ام x55": "mvm-x55",
+            "ام وی ام x55 اکسلنت": "mvm-x55-excellent",
+            "ام وی ام x55 اکسلنت اسپرت": "mvm-x55-excellentsport"
+        },
+        "ام وی ام X55 PRO": {
+            "همه نوع ام وی ام X55 PRO": "mvm-x55pro",
+            "ام وی ام X55 PRO اکسلنت": "mvm-x55pro-excellent",
+            "ام وی ام X55 PRO اکسلنت اسپرت": "mvm-x55pro-excellentsport"
+        }
+    },
+    "ایسوزو": {
+        "همه مدل های ایسوزو": "isuzu",
+        "ایسوزو دی مکس": {
+            "همه نوع ایسوزو دی مکس": "isuzu-dmax",
+            "ایسوزو دی مکس دو کابین": "isuzu-dmax- 4door"
+        }
+    },
+    "اینرودز": {
+        "همه مدل های اینرودز": "inroads",
+        "اینرودز C35": "inroads-c35"
+    },
+    "اینفینیتی": {
+        "همه مدل های اینفینیتی": "infiniti",
+        "اینفینیتی QX80": "infiniti-qx80"
+    },
+    "ب ام و": {
+        "همه مدل های ب ام و": "bmw",
+        "ب ام و سری 1 کوپه": {
+            "همه نوع ب ام و سری 1 کوپه": "bmw-1seriescoupe",
+            "ب ام و سری 1 کوپه 125i": "bmw-1seriescoupe-125i"
+        },
+        "ب ام و سری 1 هاچ بک": {
+            "همه نوع ب ام و سری 1 هاچ بک": "bmw-1series",
+            "ب ام و سری 1 هاچ بک 118i دنده ای": "bmw-1series-118imt",
+            "ب ام و سری 1 هاچ بک 120i": "bmw-1series-120i",
+            "ب ام و سری 1 هاچ بک 125i": "bmw-1series-125i"
+        },
+        "ب ام و سری 2 اکتیوتورر": {
+            "همه نوع ب ام و سری 2 اکتیوتورر": "bmw-2seriesactivetourer",
+            "ب ام و سری 2 اکتیوتورر 218i": "bmw-2seriesactivetourer-218i",
+            "ب ام و سری 2 اکتیوتورر 225i": "bmw-2seriesactivetourer-225i"
+        },
+        "ب ام و سری 2 کروک": {
+            "همه نوع ب ام و سری 2 کروک": "bmw-2seriesconvertible",
+            "ب ام و سری 2 کروک 220i": "bmw-2seriesconvertible-220i",
+            "ب ام و سری 2 کروک 230i": "bmw-2seriesconvertible-230i"
+        },
+        "ب ام و سری 2 کوپه": {
+            "همه نوع ب ام و سری 2 کوپه": "bmw-2seriescoupe",
+            "ب ام و سری 2 کوپه 220i": "bmw-2seriescoupe-220i"
+        },
+        "ب ام و سری 3 سدان": {
+            "همه نوع ب ام و سری 3 سدان": "bmw-3seriessedan",
+            "ب ام و سری 3 سدان 316i": "bmw-3seriessedan-316i",
+            "ب ام و سری 3 سدان 318i": "bmw-3seriessedan-318i",
+            "ب ام و سری 3 سدان 320i": "bmw-3seriessedan-320i",
+            "ب ام و سری 3 سدان 325i": "bmw-3seriessedan-325i",
+            "ب ام و سری 3 سدان 328i": "bmw-3seriessedan-328i",
+            "ب ام و سری 3 سدان 330i": "bmw-3seriessedan-330i"
+        },
+        "ب ام و سری 3 کروک": {
+            "همه نوع ب ام و سری 3 کروک": "bmw-3seriesconvertible",
+            "ب ام و سری 3 کروک 320i": "bmw-3seriesconvertible-320i",
+            "ب ام و سری 3 کروک 325i": "bmw-3seriesconvertible-325i",
+            "ب ام و سری 3 کروک 330i": "bmw-3seriesconvertible-330i",
+            "ب ام و سری 3 کروک 335i": "bmw-3seriesconvertible-335i"
+        },
+        "ب ام و سری 3 کوپه": {
+            "همه نوع ب ام و سری 3 کوپه": "bmw-3seriescoupe",
+            "ب ام و سری 3 کوپه 320i": "bmw-3seriescoupe-320i",
+            "ب ام و سری 3 کوپه 325i": "bmw-3seriescoupe-325i"
+        },
+        "ب ام و سری 3 GT": {
+            "همه نوع ب ام و سری 3 GT": "bmw-3seriesgt",
+            "ب ام و سری 3 GT 328i": "bmw-3seriesgt-328i"
+        },
+        "ب ام و سری 4 کروک": {
+            "همه نوع ب ام و سری 4 کروک": "bmw-4seriesconvertible",
+            "ب ام و سری 4 کروک 428i": "bmw-4seriesconvertible-428i"
+        },
+        "ب ام و سری 4 کوپه": {
+            "همه نوع ب ام و سری 4 کوپه": "bmw-4seriescoupe",
+            "ب ام و سری 4 کوپه 420i": "bmw-4seriescoupe-420i",
+            "ب ام و سری 4 کوپه 430i": "bmw-4seriescoupe-430i"
+        },
+        "ب ام و سری 4 گرن کوپه": {
+            "همه نوع ب ام و سری 4 گرن کوپه": "bmw-4seriesgrancoupe",
+            "ب ام و سری 4 گرن کوپه 420i": "bmw-4seriesgrancoupe-420i",
+            "ب ام و سری 4 گرن کوپه 428i": "bmw-4seriesgrancoupe-428i"
+        },
+        "ب ام و سری 5 سدان": {
+            "همه نوع ب ام و سری 5 سدان": "bmw-5seriessedan",
+            "ب ام و سری 5 سدان 518i": "bmw-5seriessedan-518i",
+            "ب ام و سری 5 سدان 520i": "bmw-5seriessedan-520i",
+            "ب ام و سری 5 سدان 523i": "bmw-5seriessedan-523i",
+            "ب ام و سری 5 سدان 525i": "bmw-5seriessedan-525i",
+            "ب ام و سری 5 سدان 528i": "bmw-5seriessedan-528i",
+            "ب ام و سری 5 سدان 530i": "bmw-5seriessedan-530i",
+            "ب ام و سری 5 سدان 530xi": "bmw-5seriessedan-530xi",
+            "ب ام و سری 5 سدان 535i": "bmw-5seriessedan-535i"
+        },
+        "ب ام و سری 5 GT": {
+            "همه نوع ب ام و سری 5 GT": "bmw-5seriesgt",
+            "ب ام و سری 5 GT 528i": "bmw-5seriesgt-528i",
+            "ب ام و سری 5 GT 535i": "bmw-5seriesgt-535i"
+        },
+        "ب ام و سری 6 کروک": {
+            "همه نوع ب ام و سری 6 کروک": "bmw-6seriesconvertible",
+            "ب ام و سری 6 کروک 630i": "bmw-6seriesconvertible-630i",
+            "ب ام و سری 6 کروک 650i": "bmw-6seriesconvertible-650i"
+        },
+        "ب ام و سری 6 کوپه": {
+            "همه نوع ب ام و سری 6 کوپه": "bmw-6seriescoupe",
+            "ب ام و سری 6 کوپه 630i": "bmw-6seriescoupe-630i",
+            "ب ام و سری 6 کوپه 640i": "bmw-6seriescoupe-640i"
+        },
+        "ب ام و سری 6 گرن کوپه": {
+            "همه نوع ب ام و سری 6 گرن کوپه": "bmw-6seriesgrancoupe",
+            "ب ام و سری 6 گرن کوپه 640i": "bmw-6seriesgrancoupe-640i",
+            "ب ام و سری 6 گرن کوپه 650i": "bmw-6seriesgrancoupe-650i"
+        },
+        "ب ام و سری 7": {
+            "همه نوع ب ام و سری 7": "bmw-7series",
+            "ب ام و سری 7 730i": "bmw-7series-730i",
+            "ب ام و سری 7 730li": "bmw-7series-730li",
+            "ب ام و سری 7 733": "bmw-7series-733",
+            "ب ام و سری 7 740li": "bmw-7series-740li",
+            "ب ام و سری 7 750li": "bmw-7series-750li"
+        },
+        "ب ام و سری i": {
+            "همه نوع ب ام و سری i": "bmw-iseries",
+            "ب ام و سری i i8": "bmw-iseries-i8"
+        },
+        "ب ام و کلاسیک": "bmw-classic",
+        "ب ام و X1": {
+            "همه نوع ب ام و X1": "bmw-x1",
+            "ب ام و X1 18": "bmw-x1-18",
+            "ب ام و X1 20": "bmw-x1-20",
+            "ب ام و X1 25": "bmw-x1-25",
+            "ب ام و X1 28": "bmw-x1-28"
+        },
+        "ب ام و X3": {
+            "همه نوع ب ام و X3": "bmw-x3",
+            "ب ام و X3 25": "bmw-x3-25",
+            "ب ام و X3 28": "bmw-x3-28",
+            "ب ام و X3 30": "bmw-x3-30"
+        },
+        "ب ام و X4": {
+            "همه نوع ب ام و X4": "bmw-x4",
+            "ب ام و X4 28": "bmw-x4-28"
+        },
+        "ب ام و X5": {
+            "همه نوع ب ام و X5": "bmw-x5",
+            "ب ام و X5 50": "bmw-x5-50"
+        },
+        "ب ام و X6": {
+            "همه نوع ب ام و X6": "bmw-x6",
+            "ب ام و X6 35": "bmw-x6-35",
+            "ب ام و X6 50": "bmw-x6-50"
+        },
+        "ب ام و Z4": {
+            "همه نوع ب ام و Z4": "bmw-z4",
+            "ب ام و Z4 20": "bmw-z4-20",
+            "ب ام و Z4 23": "bmw-z4-23",
+            "ب ام و Z4 28": "bmw-z4-28",
+            "ب ام و Z4 35": "bmw-z4-35"
+        }
+    },
+    "بایک": {
+        "همه مدل های بایک": "baic",
+        "بایک سابرینا هاچ بک": "baic-sabrinahatchback",
+        "بایک سابرینا هاچ بک (مونتاژ)": "baic-sabrinahatchbackir",
+        "بایک X25": "baic-x25"
+    },
+    "برلیانس": {
+        "همه مدل های برلیانس": "brilliance",
+        "برلیانس کراس": {
+            "همه نوع برلیانس کراس": "brilliance-crossc3",
+            "برلیانس کراس 1.5 لیتر": "brilliance-crossc3-1500cc",
+            "برلیانس کراس 1.65 لیتر": "brilliance-crossc3-1650cc"
+        },
+        "برلیانس H220": {
+            "همه نوع برلیانس H220": "brilliance-h220",
+            "برلیانس H220 اتوماتیک": "brilliance-h220-at",
+            "برلیانس H220 دنده ای": "brilliance-h220-mt"
+        },
+        "برلیانس H230": {
+            "همه نوع برلیانس H230": "brilliance-h230",
+            "برلیانس H230 اتوماتیک": "brilliance-h230-at",
+            "برلیانس H230 دنده ای": "brilliance-h230-mt"
+        },
+        "برلیانس H2L": "brilliance-h2l",
+        "برلیانس H320": {
+            "همه نوع برلیانس H320": "brilliance-h320",
+            "برلیانس H320 1.5 اتوماتیک": "brilliance-h320-at",
+            "برلیانس H320 1.5 دنده ای": "brilliance-h320-mt",
+            "برلیانس H320 1.65 اتوماتیک": "brilliance-h320-at1.65",
+            "برلیانس H320 1.65 دنده ای": "brilliance-h320-mt1.65"
+        },
+        "برلیانس H330": {
+            "همه نوع برلیانس H330": "brilliance-h330",
+            "برلیانس H330 1.5 اتوماتیک": "brilliance-h330-at",
+            "برلیانس H330 1.5 دنده ای": "brilliance-h330-mt",
+            "برلیانس H330 1.65 اتوماتیک": "brilliance-h330-at1.65",
+            "برلیانس H330 1.65 دنده ای": "brilliance-h330-mt1.65"
+        },
+        "برلیانس V5": "brilliance-v5"
+    },
+    "بسترن": {
+        "همه مدل های بسترن": "besturn",
+        "بسترن B30": {
+            "همه نوع بسترن B30": "besturn-b30",
+            "بسترن B30 اتوماتیک": "besturn-b30-at"
+        },
+        "بسترن B50": "besturn-b50",
+        "بسترن B50F": "besturn-b50f"
+    },
+    "بنز": {
+        "همه مدل های بنز": "mercedesbenz",
+        "بنز کلاس A": {
+            "همه نوع بنز کلاس A": "mercedesbenz-aclass",
+            "بنز کلاس A A200": "mercedesbenz-aclass-a200"
+        },
+        "بنز کلاس B": {
+            "همه نوع بنز کلاس B": "mercedesbenz-bclass",
+            "بنز کلاس B B200": "mercedesbenz-bclass-b200"
+        },
+        "بنز کلاس C": {
+            "همه نوع بنز کلاس C": "mercedesbenz-cclass",
+            "بنز کلاس C C180": "mercedesbenz-cclass-c180",
+            "بنز کلاس C C200": "mercedesbenz-cclass-c200",
+            "بنز کلاس C C230": "mercedesbenz-cclass-c230",
+            "بنز کلاس C C240": "mercedesbenz-cclass-c240",
+            "بنز کلاس C C250": "mercedesbenz-cclass-c250",
+            "بنز کلاس C C280": "mercedesbenz-cclass-c280",
+            "بنز کلاس C C350": "mercedesbenz-cclass-c350"
+        },
+        "بنز کلاس C کوپه": {
+            "همه نوع بنز کلاس C کوپه": "mercedesbenz-cclasscoupe",
+            "بنز کلاس C کوپه C200": "mercedesbenz-cclasscoupe-c200"
+        },
+        "بنز کلاس CL": {
+            "همه نوع بنز کلاس CL": "mercedesbenz-clclass",
+            "بنز کلاس CL CL500": "mercedesbenz-clclass-cl500"
+        },
+        "بنز کلاس CLA": {
+            "همه نوع بنز کلاس CLA": "mercedesbenz-claclass",
+            "بنز کلاس CLA CLA250": "mercedesbenz-claclass-cla250",
+            "بنز کلاس CLA CLA45": "mercedesbenz-claclass-cla45"
+        },
+        "بنز کلاس CLK کروک": {
+            "همه نوع بنز کلاس CLK کروک": "mercedesbenz-clkclassconvertible",
+            "بنز کلاس CLK کروک CLK200": "mercedesbenz-clkclassconvertible-clk200",
+            "بنز کلاس CLK کروک CLK280": "mercedesbenz-clkclassconvertible-clk280"
+        },
+        "بنز کلاس CLS": {
+            "همه نوع بنز کلاس CLS": "mercedesbenz-clsclass",
+            "بنز کلاس CLS CLS350": "mercedesbenz-clsclass-cls350",
+            "بنز کلاس CLS CLS500": "mercedesbenz-clsclass-cls500",
+            "بنز کلاس CLS CLS550": "mercedesbenz-clsclass-cls550"
+        },
+        "بنز کلاس E": {
+            "همه نوع بنز کلاس E": "mercedesbenz-eclass",
+            "بنز کلاس E E190": "mercedesbenz-eclass-e190",
+            "بنز کلاس E E200": "mercedesbenz-eclass-e200",
+            "بنز کلاس E E220": "mercedesbenz-eclass-e220",
+            "بنز کلاس E E230": "mercedesbenz-eclass-e230",
+            "بنز کلاس E E240": "mercedesbenz-eclass-e240",
+            "بنز کلاس E E250": "mercedesbenz-eclass-e250",
+            "بنز کلاس E E280": "mercedesbenz-eclass-e280",
+            "بنز کلاس E E300": "mercedesbenz-eclass-e300",
+            "بنز کلاس E E350": "mercedesbenz-eclass-e350"
+        },
+        "بنز کلاس E (مونتاژ)": {
+            "همه نوع بنز کلاس E (مونتاژ)": "mercedesbenz-eclassir",
+            "بنز کلاس E (مونتاژ) E200": "mercedesbenz-eclassir-e200",
+            "بنز کلاس E (مونتاژ) E280": "mercedesbenz-eclassir-e280",
+            "بنز کلاس E (مونتاژ) E350": "mercedesbenz-eclassir-e350"
+        },
+        "بنز کلاس E کروک": {
+            "همه نوع بنز کلاس E کروک": "mercedesbenz-eclassconvertible",
+            "بنز کلاس E کروک E250": "mercedesbenz-eclassconvertible-e250",
+            "بنز کلاس E کروک E350": "mercedesbenz-eclassconvertible-e350"
+        },
+        "بنز کلاس E کوپه": {
+            "همه نوع بنز کلاس E کوپه": "mercedesbenz-eclasscoupe",
+            "بنز کلاس E کوپه E200": "mercedesbenz-eclasscoupe-e200",
+            "بنز کلاس E کوپه E350": "mercedesbenz-eclasscoupe-e350"
+        },
+        "بنز کلاس G": {
+            "همه نوع بنز کلاس G": "mercedesbenz-gclass",
+            "بنز کلاس G G350": "mercedesbenz-gclass-g350",
+            "بنز کلاس G G500": "mercedesbenz-gclass-g500"
+        },
+        "بنز کلاس GLA": {
+            "همه نوع بنز کلاس GLA": "mercedesbenz-glaclass",
+            "بنز کلاس GLA GLA45": "mercedesbenz-glaclass-gla45"
+        },
+        "بنز کلاس GLK": {
+            "همه نوع بنز کلاس GLK": "mercedesbenz-glkclass",
+            "بنز کلاس GLK GLK350": "mercedesbenz-glkclass-glk350"
+        },
+        "بنز کلاس ML": {
+            "همه نوع بنز کلاس ML": "mercedesbenz-mlclass",
+            "بنز کلاس ML ML350": "mercedesbenz-mlclass-ml350",
+            "بنز کلاس ML ML500": "mercedesbenz-mlclass-ml500",
+            "بنز کلاس ML ML63": "mercedesbenz-mlclass-ml63"
+        },
+        "بنز کلاس S": {
+            "همه نوع بنز کلاس S": "mercedesbenz-sclass",
+            "بنز کلاس S S280": "mercedesbenz-sclass-s280",
+            "بنز کلاس S S320": "mercedesbenz-sclass-s320",
+            "بنز کلاس S S350": "mercedesbenz-sclass-s350",
+            "بنز کلاس S S450": "mercedesbenz-sclass-s450",
+            "بنز کلاس S S500": "mercedesbenz-sclass-s500",
+            "بنز کلاس S S550": "mercedesbenz-sclass-s550",
+            "بنز کلاس S SEL450": "mercedesbenz-sclass-sel450"
+        },
+        "بنز کلاس SE": {
+            "همه نوع بنز کلاس SE": "mercedesbenz-seclass",
+            "بنز کلاس SE SE 280": "mercedesbenz-seclass-se280",
+            "بنز کلاس SE SE 300": "mercedesbenz-seclass-se300"
+        },
+        "بنز کلاس SL": {
+            "همه نوع بنز کلاس SL": "mercedesbenz-slclass",
+            "بنز کلاس SL SL350": "mercedesbenz-slclass-sl350",
+            "بنز کلاس SL SL500": "mercedesbenz-slclass-sl500"
+        },
+        "بنز کلاس SLC": {
+            "همه نوع بنز کلاس SLC": "mercedesbenz-slcclass",
+            "بنز کلاس SLC SLC350": "mercedesbenz-slcclass-slc350",
+            "بنز کلاس SLC SLC450": "mercedesbenz-slcclass-slc450",
+            "بنز کلاس SLC SLC500": "mercedesbenz-slcclass-slc500"
+        },
+        "بنز کلاس SLK": {
+            "همه نوع بنز کلاس SLK": "mercedesbenz-slkclass",
+            "بنز کلاس SLK SLK200": "mercedesbenz-slkclass-slk200",
+            "بنز کلاس SLK SLK280": "mercedesbenz-slkclass-slk280",
+            "بنز کلاس SLK SLK350": "mercedesbenz-slkclass-slk350"
+        },
+        "بنز کلاسیک": "mercedesbenz-classic",
+        "بنز ون": "mercedesbenz-van",
+        "بنز ون (مونتاژ)": "mercedesbenz-vanir",
+        "بنز GL550": "mercedesbenz-gl550"
+    },
+    "بورگوارد": {
+        "همه مدل های بورگوارد": "borgward",
+        "بورگوارد BX5": {
+            "همه نوع بورگوارد BX5": "borgward-bx5",
+            "بورگوارد BX5 آلتیمیت": "borgward-bx5-ultimate"
+        },
+        "بورگوارد BX7": {
+            "همه نوع بورگوارد BX7": "borgward-bx7",
+            "بورگوارد BX7 آلتیمیت": "borgward-bx7-ultimate"
+        }
+    },
+    "بی وای دی": {
+        "همه مدل های بی وای دی": "byd",
+        "بی وای دی F3": {
+            "همه نوع بی وای دی F3": "byd-f3",
+            "بی وای دی F3 دنده ای": "byd-f3-mt"
+        },
+        "بی وای دی S6": "byd-s6"
+    },
+    "بیسو": {
+        "همه مدل های بیسو": "bisu",
+        "بیسو T3": {
+            "همه نوع بیسو T3": "bisu-t3",
+            "بیسو T3 EX": "bisu-t3-ex",
+            "بیسو T3 LU": "bisu-t3-lu"
+        }
+    },
+    "بیوک": {
+        "همه مدل های بیوک": "buick",
+        "بیوک سنچری": "buick-century",
+        "بیوک B3": "buick-b3"
+    },
+    "پاژن": {
+        "همه مدل های پاژن": "pazhan",
+        "پاژن چهار در": "pazhan-4doors",
+        "پاژن دو در": "pazhan-2doors",
+        "پاژن وانت دو کابین": "pazhan-pickup2cab"
+    },
+    "پراید": {
+        "همه مدل های پراید": "pride",
+        "پراید 111": {
+            "همه نوع پراید 111": "pride-111",
+            "پراید 111 EX": "pride-111-ex",
+            "پراید 111 LX": "pride-111-lx",
+            "پراید 111 SE": "pride-111-se",
+            "پراید 111 SL": "pride-111-sl",
+            "پراید 111 SX": "pride-111-sx"
+        },
+        "پراید 131": {
+            "همه نوع پراید 131": "pride-131",
+            "پراید 131 EX": "pride-131-ex",
+            "پراید 131 LE": "pride-131-le",
+            "پراید 131 SE": "pride-131-se",
+            "پراید 131 SL": "pride-131-sl",
+            "پراید 131 SX": "pride-131-sx",
+            "پراید 131 TL": "pride-131-tl"
+        },
+        "پراید 132": {
+            "همه نوع پراید 132": "pride-132",
+            "پراید 132 ساده": "pride-132-basic",
+            "پراید 132 EX": "pride-132-ex",
+            "پراید 132 SE": "pride-132-se",
+            "پراید 132 SL": "pride-132-sl",
+            "پراید 132 SX": "pride-132-sx"
+        },
+        "پراید 141": {
+            "همه نوع پراید 141": "pride-141",
+            "پراید 141 ساده": "pride-141-basic",
+            "پراید 141 EX": "pride-141-ex",
+            "پراید 141 SE": "pride-141-se",
+            "پراید 141 SL": "pride-141-sl",
+            "پراید 141 SX": "pride-141-sx"
+        },
+        "پراید 151": {
+            "همه نوع پراید 151": "pride-151",
+            "پراید 151 کانوپی": "pride-151-canopi",
+            "پراید 151 SE": "pride-151-se",
+            "پراید 151 SL": "pride-151-sl"
+        },
+        "پراید صندوق دار": "pride-sedan",
+        "پراید هاچ بک": "pride-hatchback"
+    },
+    "پروتون": {
+        "همه مدل های پروتون": "proton",
+        "پروتون ایمپین": "proton-impian",
+        "پروتون جن تو": "proton-gen2",
+        "پروتون ویرا": "proton-wira"
+    },
+    "پژو": {
+        "همه مدل های پژو": "peugeot",
+        "پژو 2008": "peugeot-2008",
+        "پژو 205": "peugeot-205",
+        "پژو 206": {
+            "همه نوع پژو 206": "peugeot-206ir",
+            "پژو 206 تیپ 1": "peugeot-206ir-type1",
+            "پژو 206 تیپ 2": "peugeot-206ir-type2",
+            "پژو 206 تیپ 3": "peugeot-206ir-type3",
+            "پژو 206 تیپ 3 پانوراما": "peugeot-206ir-type3panorama",
+            "پژو 206 تیپ 4": "peugeot-206ir-type4",
+            "پژو 206 تیپ 5": "peugeot-206ir-type5",
+            "پژو 206 تیپ 6": "peugeot-206ir-type6"
+        },
+        "پژو 206 SD": {
+            "همه نوع پژو 206 SD": "peugeot-206sd",
+            "پژو 206 SD V1": "peugeot-206sd-v1",
+            "پژو 206 SD V10": "peugeot-206sd-v10",
+            "پژو 206 SD V19": "peugeot-206sd-v19",
+            "پژو 206 SD V2": "peugeot-206sd-v2",
+            "پژو 206 SD V20": "peugeot-206sd-v20",
+            "پژو 206 SD V8": "peugeot-206sd-v8",
+            "پژو 206 SD V9": "peugeot-206sd-v9"
+        },
+        "پژو 207": {
+            "همه نوع پژو 207": "peugeot-207",
+            "پژو 207 اتوماتیک": "peugeot-207-at",
+            "پژو 207 پانوراما اتوماتیک": "peugeot-207-automaticpanorama",
+            "پژو 207 پانوراما دنده ای": "peugeot-207-manualpanorama",
+            "پژو 207 دنده ای": "peugeot-207-mt",
+            "پژو 207 MC اتوماتیک": "peugeot-207-automaticmc"
+        },
+        "پژو 207 صندوقدار": {
+            "همه نوع پژو 207 صندوقدار": "peugeot-207sd",
+            "پژو 207 صندوقدار اتوماتیک": "peugeot-207sd-at"
+        },
+        "پژو 301": "peugeot-301",
+        "پژو 306": "peugeot-306",
+        "پژو 405": {
+            "همه نوع پژو 405": "peugeot-405",
+            "پژو 405 GL": "peugeot-405-gl",
+            "پژو 405 GLI": "peugeot-405-gli",
+            "پژو 405 GLX بنزینی": "peugeot-405-glx",
+            "پژو 405 GLX دوگانه سوز": "peugeot-405-glxcng",
+            "پژو 405 SLX": "peugeot-405-slx"
+        },
+        "پژو 405 استیشن": "peugeot-405station",
+        "پژو 407": "peugeot-407",
+        "پژو 504": "peugeot-504",
+        "پژو 508": {
+            "همه نوع پژو 508": "peugeot-508",
+            "پژو 508 GT لاین": "peugeot-508-gtline"
+        },
+        "پژو پارس": {
+            "همه نوع پژو پارس": "peugeot-pars",
+            "پژو پارس اتوماتیک": "peugeot-pars-at",
+            "پژو پارس دوگانه سوز": "peugeot-pars-cng",
+            "پژو پارس ELX-TU5": "peugeot-pars-elxtu5",
+            "پژو پارس ELX-XU7": "peugeot-pars-elx",
+            "پژو پارس ELX-XU7P": "peugeot-pars-elxxu7p",
+            "پژو پارس ELX-XUM": "peugeot-pars-elxxum",
+            "پژو پارس LX": "peugeot-pars-lx",
+            "پژو پارس XU7": "peugeot-pars-mt",
+            "پژو پارس XU7P": "peugeot-pars-xu7p"
+        },
+        "پژو روآ": {
+            "همه نوع پژو روآ": "peugeot-roa",
+            "پژو روآ ساده": "peugeot-roa-basic",
+            "پژو روآ G2": "peugeot-roa-g2"
+        },
+        "پژو RD": "peugeot-rd",
+        "پژو RDI": "peugeot-rdi"
+    },
+    "پورشه": {
+        "همه مدل های پورشه": "porsche",
+        "پورشه 911": {
+            "همه نوع پورشه 911": "porsche-911",
+            "پورشه 911 کررا 4": "porsche-911-carrera4",
+            "پورشه 911 کررا S": "porsche-911-carreras"
+        },
+        "پورشه باکستر": {
+            "همه نوع پورشه باکستر": "porsche-boxster",
+            "پورشه باکستر 6 سیلندر S": "porsche-boxster-6cylinders",
+            "پورشه باکستر 6 سیلندرساده": "porsche-boxster-6cylinder",
+            "پورشه باکستر 718": "porsche-boxster-718",
+            "پورشه باکستر 718S": "porsche-boxster-718s"
+        },
+        "پورشه پانامرا": {
+            "همه نوع پورشه پانامرا": "porsche-panamera",
+            "پورشه پانامرا 4S": "porsche-panamera-4s",
+            "پورشه پانامرا 6 سیلندر": "porsche-panamera-v6",
+            "پورشه پانامرا توربو": "porsche-panamera-turbo"
+        },
+        "پورشه کاین": {
+            "همه نوع پورشه کاین": "porsche-cayenne",
+            "پورشه کاین 6 سیلندر": "porsche-cayenne-v6",
+            "پورشه کاین توربو": "porsche-cayenne-turbo",
+            "پورشه کاین توربو S": "porsche-cayenne-turbos",
+            "پورشه کاین GTS": "porsche-cayenne-gts",
+            "پورشه کاین S": "porsche-cayenne-s"
+        },
+        "پورشه کیمن S": "porsche-caymans",
+        "پورشه ماکان": "porsche-macan"
+    },
+    "پونتیاک": {
+        "همه مدل های پونتیاک": "pontiac",
+        "پونتیاک ترانس ام": "pontiac-transam",
+        "پونتیاک فایربرد": "pontiac-firebird"
+    },
+    "پیکان": {
+        "همه مدل های پیکان": "peykan",
+        "پیکان سدان": {
+            "همه نوع پیکان سدان": "peykan-sedan",
+            "پیکان سدان بنزین": "peykan-sedan-gas",
+            "پیکان سدان دوگانه سوز": "peykan-sedan-cng"
+        },
+        "پیکان وانت": {
+            "همه نوع پیکان وانت": "peykan-pickup",
+            "پیکان وانت بنزین": "peykan-pickup-gas",
+            "پیکان وانت دوگانه سوز": "peykan-pickup-cng"
+        }
+    },
+    "تارا": {
+        "همه مدل های تارا": "tara",
+        "تارا اتوماتیک": "tara-automatic",
+        "تارا دنده ای": "tara-manual"
+    },
+    "تریومف": {
+        "همه مدل های تریومف": "triumph",
+        "تریومف استگ کروک": "triumph-stagconvertible",
+        "تریومف گوناگون": "triumph-misc"
+    },
+    "تویوتا": {
+        "همه مدل های تویوتا": "toyota",
+        "تویوتا 86 GT": "toyota-gt86",
+        "تویوتا اریون": {
+            "همه نوع تویوتا اریون": "toyota-aurion",
+            "تویوتا اریون اسپرت": "toyota-aurion-sport",
+            "تویوتا اریون گرند": "toyota-aurion-grande"
+        },
+        "تویوتا استاوت": "toyota-stout",
+        "تویوتا اف جی کروز": "toyota-fjcruiser",
+        "تویوتا اینووا": "toyota-innova",
+        "تویوتا پرادو  چهار در": {
+            "همه نوع تویوتا پرادو  چهار در": "toyota-prado4doors",
+            "تویوتا پرادو  چهار در 4 سیلندر": "toyota-prado4doors-4cylinder",
+            "تویوتا پرادو  چهار در 6 سیلندر": "toyota-prado4doors-6cylinder",
+            "تویوتا پرادو  چهار در 6 سیلندر آفرود": "toyota-prado4doors-6cylinderonroad",
+            "تویوتا پرادو  چهار در 6 سیلندر آنرود": "toyota-prado4doors-6cylinderoffroad"
+        },
+        "تویوتا پرادو دو در": {
+            "همه نوع تویوتا پرادو دو در": "toyota-prado2doors",
+            "تویوتا پرادو دو در 4 سیلندر": "toyota-prado2doors-4cylinder",
+            "تویوتا پرادو دو در 6 سیلندر": "toyota-prado2doors-6cylinder"
+        },
+        "تویوتا پریوس": {
+            "همه نوع تویوتا پریوس": "toyota-prius",
+            "تویوتا پریوس تیپ 3": "toyota-prius-3",
+            "تویوتا پریوس تیپ A": "toyota-prius-a",
+            "تویوتا پریوس تیپ B": "toyota-prius-b",
+            "تویوتا پریوس تیپ C": "toyota-prius-c"
+        },
+        "تویوتا پریویا": "toyota-previa",
+        "تویوتا توندرا": "toyota-tundra",
+        "تویوتا راوفور": {
+            "همه نوع تویوتا راوفور": "toyota-rav4",
+            "تویوتا راوفور تک دیفرانسیل": "toyota-rav4-2wd",
+            "تویوتا راوفور دو دیفرانسیل": "toyota-rav4-4wd"
+        },
+        "تویوتا فرچونر": "toyota-furtuner",
+        "تویوتا فررانر": "toyota-4runner",
+        "تویوتا کارینا": "toyota-carina",
+        "تویوتا کرولا": {
+            "همه نوع تویوتا کرولا": "toyota-corolla",
+            "تویوتا کرولا GLI": "toyota-corolla-gli",
+            "تویوتا کرولا SE": "toyota-corolla-se",
+            "تویوتا کرولا XLI": "toyota-corolla-xli"
+        },
+        "تویوتا کرونا": "toyota-corona",
+        "تویوتا کریسیدا": "toyota-cressida",
+        "تویوتا کمری": {
+            "همه نوع تویوتا کمری": "toyota-camry",
+            "تویوتا کمری گرند": "toyota-camry-grand",
+            "تویوتا کمری GL": "toyota-camry-gl",
+            "تویوتا کمری GLI": "toyota-camry-gli",
+            "تویوتا کمری GLX": "toyota-camry-glx",
+            "تویوتا کمری LE": "toyota-camry-le",
+            "تویوتا کمری SE": "toyota-camry-se",
+            "تویوتا کمری XLI": "toyota-camry-xli"
+        },
+        "تویوتا کمری هیبرید": {
+            "همه نوع تویوتا کمری هیبرید": "toyota-camryhybrid",
+            "تویوتا کمری هیبرید LE": "toyota-camryhybrid-le",
+            "تویوتا کمری هیبرید XLE": "toyota-camryhybrid-xle"
+        },
+        "تویوتا لندکروز چهار در": {
+            "همه نوع تویوتا لندکروز چهار در": "toyota-landcruiser4door",
+            "تویوتا لندکروز چهار در 4 سیلندر 2.4": "toyota-landcruiser4door-v42400cc",
+            "تویوتا لندکروز چهار در 6 سیلندر 4.0": "toyota-landcruiser4door-v64000cc",
+            "تویوتا لندکروز چهار در 6 سیلندر 4.5": "toyota-landcruiser4door-v64500cc",
+            "تویوتا لندکروز چهار در 8 سیلندر 4.7": "toyota-landcruiser4door-v84700cc",
+            "تویوتا لندکروز چهار در 8 سیلندر 5.7": "toyota-landcruiser4door-v85700cc"
+        },
+        "تویوتا لندکروز دو در": {
+            "همه نوع تویوتا لندکروز دو در": "toyota-landcruiser2door",
+            "تویوتا لندکروز دو در 2F": "toyota-landcruiser2door-2f",
+            "تویوتا لندکروز دو در 3F": "toyota-landcruiser2door-3f"
+        },
+        "تویوتا لندکروز وانت تک کابین": {
+            "همه نوع تویوتا لندکروز وانت تک کابین": "toyota-landcruiserpickup2door",
+            "تویوتا لندکروز وانت تک کابین 2F": "toyota-landcruiserpickup2door-2f"
+        },
+        "تویوتا لندکروز وانت دو کابین": {
+            "همه نوع تویوتا لندکروز وانت دو کابین": "toyota-landcruiserpickup4door",
+            "تویوتا لندکروز وانت دو کابین 3F": "toyota-landcruiserpickup4door-3f"
+        },
+        "تویوتا هایس": {
+            "همه نوع تویوتا هایس": "toyota-hiace",
+            "تویوتا هایس بنزین": "toyota-hiace-gasoline",
+            "تویوتا هایس دیزل": "toyota-hiace-diesel"
+        },
+        "تویوتا هایلوکس تک کابین": "toyota-hilux2door",
+        "تویوتا هایلوکس دو کابین": {
+            "همه نوع تویوتا هایلوکس دو کابین": "toyota-hilux4door",
+            "تویوتا هایلوکس دو کابین اتوماتیک": "toyota-hilux4door-at",
+            "تویوتا هایلوکس دو کابین دنده ای": "toyota-hilux4door-mt"
+        },
+        "تویوتا هایلوکس دو کابین بلند": {
+            "همه نوع تویوتا هایلوکس دو کابین بلند": "toyota-hiluxhigh",
+            "تویوتا هایلوکس دو کابین بلند اتوماتیک": "toyota-hiluxhigh-at",
+            "تویوتا هایلوکس دو کابین بلند دنده ای": "toyota-hiluxhigh-mt"
+        },
+        "تویوتا یاریس صندوق دار": "toyota-yaris",
+        "تویوتا یاریس هاچ بک": "toyota-yarishatchback",
+        "تویوتا C-HR": {
+            "همه نوع تویوتا C-HR": "toyota-chr",
+            "تویوتا C-HR تمام چرخ محرک": "toyota-chr-awd",
+            "تویوتا C-HR دیفرانسیل جلو": "toyota-chr-fwd"
+        },
+        "تویوتا C-HR هیبرید": "toyota-chrhybrid",
+        "تویوتا XA": "toyota-xa"
+    },
+    "تیبا": {
+        "همه مدل های تیبا": "tiba",
+        "تیبا صندوق دار": {
+            "همه نوع تیبا صندوق دار": "tiba-sedan",
+            "تیبا صندوق دار پلاس": "tiba-sedan-plus",
+            "تیبا صندوق دار EX": "tiba-sedan-ex",
+            "تیبا صندوق دار LX": "tiba-sedan-lx",
+            "تیبا صندوق دار SX بنزینی": "tiba-sedan-sx",
+            "تیبا صندوق دار SX دوگانه سوز": "tiba-sedan-sxcng"
+        },
+        "تیبا هاچ بک": {
+            "همه نوع تیبا هاچ بک": "tiba-hatchback",
+            "تیبا هاچ بک پلاس": "tiba-hatchback-plus",
+            "تیبا هاچ بک EX": "tiba-hatchback-ex",
+            "تیبا هاچ بک SX": "tiba-hatchback-sx"
+        }
+    },
+    "جک": {
+        "همه مدل های جک": "jac",
+        "جک جی 3 سدان": "jac-j3sedan",
+        "جک جی 3 هاچ بک": "jac-j3hatchback",
+        "جک جی 4": "jac-j4",
+        "جک جی 5": {
+            "همه نوع جک جی 5": "jac-j5",
+            "جک جی 5 1.5 لیتر دنده ای": "jac-j5-mt",
+            "جک جی 5 1.8 لیتر اتوماتیک": "jac-j5-at"
+        },
+        "جک S3": {
+            "همه نوع جک S3": "jac-s3",
+            "جک S3 اتوماتیک": "jac-s3-at"
+        },
+        "جک S5": {
+            "همه نوع جک S5": "jac-s5",
+            "جک S5 1.5 لیتر اتوماتیک": "jac-s5-at1500",
+            "جک S5 2.0 لیتر اتوماتیک": "jac-s5-at2000",
+            "جک S5 2.0 لیتر دنده ای": "jac-s5-mt2000"
+        }
+    },
+    "جگوار": {
+        "همه مدل های جگوار": "jaguar",
+        "جگوار XJ": "jaguar-xj"
+    },
+    "جی ام سی (GMC)": {
+        "همه مدل های جی ام سی (GMC)": "gmc",
+        "جی ام سی (GMC) آکادیا": "gmc-acadia"
+    },
+    "جِی ام سی (JMC)": {
+        "همه مدل های جِی ام سی (JMC)": "jmc",
+        "جِی ام سی (JMC) S350": "jmc-s350"
+    },
+    "جیپ": {
+        "همه مدل های جیپ": "jeep",
+        "جیپ آهو": "jeep-ahoo",
+        "جیپ چروکی": "jeep-cherokee",
+        "جیپ رنگلر": "jeep-wrangler",
+        "جیپ رنه گید": "jeep-renegade",
+        "جیپ شهباز": "jeep-shahbaz",
+        "جیپ صحرا": "jeep-sahra",
+        "جیپ میوت": "jeep-mutt",
+        "جیپ KM": "jeep-km"
+    },
+    "جیلی": {
+        "همه مدل های جیلی": "geely",
+        "جیلی امگرند 7": {
+            "همه نوع جیلی امگرند 7": "geely-emgrand7",
+            "جیلی امگرند 7 اتوماتیک": "geely-emgrand7-at",
+            "جیلی امگرند 7 دنده ای": "geely-emgrand7-mt"
+        },
+        "جیلی امگرند RV-7": {
+            "همه نوع جیلی امگرند RV-7": "geely-emgrand7rv",
+            "جیلی امگرند RV-7 اتوماتیک": "geely-emgrand7rv-at",
+            "جیلی امگرند RV-7 دنده ای": "geely-emgrand7rv-mt"
+        },
+        "جیلی امگرند X7": "geely-emgrandx7",
+        "جیلی GC6": {
+            "همه نوع جیلی GC6": "geely-gc6",
+            "جیلی GC6 اکسلنت": "geely-gc6-excellent",
+            "جیلی GC6 الیت": "geely-gc6-elite"
+        }
+    },
+    "چانگان": {
+        "همه مدل های چانگان": "changan",
+        "چانگان ایدو": "changan-eado",
+        "چانگان CS 35": "changan-cs35",
+        "چانگان CS 35 (مونتاژ)": "changan-cs35ir"
+    },
+    "چری": {
+        "همه مدل های چری": "chery",
+        "چری آریزو 5": {
+            "همه نوع چری آریزو 5": "chery-arrizo5",
+            "چری آریزو 5 اتوماتیک اکسلنت": "chery-arrizo5-atexcellent",
+            "چری آریزو 5 اتوماتیک لاکچری": "chery-arrizo5-atluxury",
+            "چری آریزو 5 دنده ای لاکچری": "chery-arrizo5-mt"
+        },
+        "چری آریزو 5T": {
+            "همه نوع چری آریزو 5T": "chery-arrizo5t",
+            "چری آریزو 5T IE": "chery-arrizo5t-ie",
+            "چری آریزو 5T TE": "chery-arrizo5t-te"
+        },
+        "چری آریزو 6": {
+            "همه نوع چری آریزو 6": "chery-arrizo6",
+            "چری آریزو 6 اکسلنت": "chery-arrizo6-excellent"
+        },
+        "چری تیگو 5": {
+            "همه نوع چری تیگو 5": "chery-tiggo5",
+            "چری تیگو 5 اکسلنت": "chery-tiggo5-atexcellent",
+            "چری تیگو 5 لاکچری": "chery-tiggo5-atluxury",
+            "چری تیگو 5 لاکچری اسپرت": "chery-tiggo5-luxurysport",
+            "چری تیگو 5 IE": "chery-tiggo5-ie",
+            "چری تیگو 5 IL": "chery-tiggo5-il"
+        },
+        "چری تیگو 7": {
+            "همه نوع چری تیگو 7": "chery-tiggo7",
+            "چری تیگو 7 اکسلنت": "chery-tiggo7-excellent",
+            "چری تیگو 7 IE": "chery-tiggo7-ie"
+        },
+        "چری ویانا": "chery-viana",
+        "چری A15": "chery-a15"
+    },
+    "دامای": {
+        "همه مدل های دامای": "domy",
+        "دامای X7": "domy-x7"
+    },
+    "دانگ فنگ": {
+        "همه مدل های دانگ فنگ": "dongfeng",
+        "دانگ فنگ H30 کراس": "dongfeng-h30cross"
+    },
+    "دایون": {
+        "همه مدل های دایون": "dayun",
+        "دایون Y5": "dayun-y5",
+        "دایون Y5 پلاس": "dayun-y5plus"
+    },
+    "دنا": {
+        "همه مدل های دنا": "dena",
+        "دنا پلاس": {
+            "همه نوع دنا پلاس": "dena-plus",
+            "دنا پلاس 5 دنده توربو": "dena-plus-turbo",
+            "دنا پلاس 6 دنده توربو": "dena-plus-turbo6mt",
+            "دنا پلاس اتوماتیک توربو": "dena-plus-turboautomatic",
+            "دنا پلاس دنده ای ساده": "dena-plus-basicmanual"
+        },
+        "دنا معمولی": "dena-1.7"
+    },
+    "دوج": {
+        "همه مدل های دوج": "dodge",
+        "دوج دارت": "dodge-dart",
+        "دوج وانت": "dodge-pickup"
+    },
+    "دوو": {
+        "همه مدل های دوو": "daewoo",
+        "دوو اسپرو": "daewoo-espero",
+        "دوو ریسر": "daewoo-racer",
+        "دوو سیلو": "daewoo-cielo",
+        "دوو ماتیز": "daewoo-matiz"
+    },
+    "دی اس": {
+        "همه مدل های دی اس": "ds",
+        "دی اس 3": "ds-3",
+        "دی اس 4 کراس بک": "ds-4crossback",
+        "دی اس 5": "ds-5",
+        "دی اس 5LS": "ds-5ls",
+        "دی اس 6": "ds-6",
+        "دی اس 7 کراس بک": {
+            "همه نوع دی اس 7 کراس بک": "ds-crossback7",
+            "دی اس 7 کراس بک اپرا": "ds-crossback7-opera",
+            "دی اس 7 کراس بک ریولی": "ds-crossback7-rivoli"
+        }
+    },
+    "دیگنیتی": {
+        "همه مدل های دیگنیتی": "dignity",
+        "دیگنیتی پرایم": "dignity-prime"
+    },
+    "رانا": {
+        "همه مدل های رانا": "runna",
+        "رانا پلاس": "runna-plus",
+        "رانا پلاس پانوراما": "runna-pluspanorama",
+        "رانا EL": "runna-el",
+        "رانا LX": "runna-lx"
+    },
+    "راین": {
+        "همه مدل های راین": "rayen",
+        "راین V5": {
+            "همه نوع راین V5": "rayen-v5",
+            "راین V5 اتوماتیک": "rayen-v5-at",
+            "راین V5 دنده ای": "rayen-v5-mt"
+        }
+    },
+    "رنو": {
+        "همه مدل های رنو": "renault",
+        "رنو 5": "renault-5",
+        "رنو اسکالا": {
+            "همه نوع رنو اسکالا": "renault-scala",
+            "رنو اسکالا 1.6 لیتر": "renault-scala-1.6",
+            "رنو اسکالا 2.0 لیتر E2": "renault-scala-e22.0",
+            "رنو اسکالا 2.0 لیتر E4": "renault-scala-e42.0"
+        },
+        "رنو پارس تندر": "renault-parstondar",
+        "رنو پی کی": "renault-pk",
+        "رنو تالیسمان": {
+            "همه نوع رنو تالیسمان": "renault-talisman",
+            "رنو تالیسمان E2": "renault-talisman-e2",
+            "رنو تالیسمان E3": "renault-talisman-e3"
+        },
+        "رنو تندر 90": {
+            "همه نوع رنو تندر 90": "renault-tondar90",
+            "رنو تندر 90 اتوماتیک": "renault-tondar90-at",
+            "رنو تندر 90 پلاس اتوماتیک": "renault-tondar90-plusat",
+            "رنو تندر 90 پلاس دنده ای": "renault-tondar90-plusmt",
+            "رنو تندر 90 E0": "renault-tondar90-e0",
+            "رنو تندر 90 E1": "renault-tondar90-e1",
+            "رنو تندر 90 E2": "renault-tondar90-e2"
+        },
+        "رنو تندر وانت": "renault-tundarpickup",
+        "رنو داستر": {
+            "همه نوع رنو داستر": "renault-duster",
+            "رنو داستر PE دو دیفرانسیل": "renault-duster-pe4wd",
+            "رنو داستر PE دیفرانسیل جلو": "renault-duster-pefwd",
+            "رنو داستر SE دو دیفرانسیل": "renault-duster-se4wd",
+            "رنو داستر SE دیفرانسیل جلو": "renault-duster-sefwd"
+        },
+        "رنو ساندرو": {
+            "همه نوع رنو ساندرو": "renault-sandero",
+            "رنو ساندرو اتوماتیک": "renault-sandero-at",
+            "رنو ساندرو دنده ای": "renault-sandero-mt"
+        },
+        "رنو ساندرو استپ وی": {
+            "همه نوع رنو ساندرو استپ وی": "renault-sanderostepway",
+            "رنو ساندرو استپ وی اتوماتیک": "renault-sanderostepway-at",
+            "رنو ساندرو استپ وی دنده ای": "renault-sanderostepway-mt"
+        },
+        "رنو سپند": "renault-sepand",
+        "رنو سفران": {
+            "همه نوع رنو سفران": "renault-safrane",
+            "رنو سفران 2.0 لیتر PE": "renault-safrane-pe2.0",
+            "رنو سفران 2.5 لیتر PE": "renault-safrane-2.5lpe"
+        },
+        "رنو سیمبل": {
+            "همه نوع رنو سیمبل": "renault-symbol",
+            "رنو سیمبل LE": "renault-symbol-le",
+            "رنو سیمبل PE": "renault-symbol-pe",
+            "رنو سیمبل SE": "renault-symbol-se"
+        },
+        "رنو فلوئنس": {
+            "همه نوع رنو فلوئنس": "renault-fluence",
+            "رنو فلوئنس دنده ای": "renault-fluence-mt",
+            "رنو فلوئنس E2": "renault-fluence-e2",
+            "رنو فلوئنس E4": "renault-fluence-e4"
+        },
+        "رنو کپچر": "renault-captur",
+        "رنو کولیوس": "renault-koleos",
+        "رنو لاگونا کوپه": "renault-lagunacoupe",
+        "رنو لتیتود": "renault-latitude",
+        "رنو مگان (مونتاژ)": {
+            "همه نوع رنو مگان (مونتاژ)": "renault-meganir",
+            "رنو مگان (مونتاژ) 2000": "renault-meganir-2000",
+            "رنو مگان (مونتاژ) E1-1600": "renault-meganir-e11600",
+            "رنو مگان (مونتاژ) E2-1600": "renault-meganir-e21600"
+        },
+        "رنو مگان (وارداتی)": {
+            "همه نوع رنو مگان (وارداتی)": "renault-megan",
+            "رنو مگان (وارداتی) 1600": "renault-megan-1600",
+            "رنو مگان (وارداتی) 2000": "renault-megan-2000"
+        },
+        "رنو مگان هاچ بک": "renault-meganhatchback"
+    },
+    "روور": {
+        "همه مدل های روور": "rover",
+        "روور گوناگون": "rover-misc"
+    },
+    "ریگان": {
+        "همه مدل های ریگان": "rigan",
+        "ریگان کوپا": {
+            "همه نوع ریگان کوپا": "rigan-coupa",
+            "ریگان کوپا رویال": "rigan-coupa-royal",
+            "ریگان کوپا فلگشیپ": "rigan-coupa-flagship"
+        }
+    },
+    "زامیاد": {
+        "همه مدل های زامیاد": "zamyad",
+        "زامیاد پادرا پلاس": "zamyad-padraplus  ",
+        "زامیاد درکا": "zamyad-dorka",
+        "زامیاد ریچ": "zamyad-rich",
+        "زامیاد کارون": "zamyad-karoon",
+        "زامیاد وانت نیسان": {
+            "همه نوع زامیاد وانت نیسان": "zamyad-pickup",
+            "زامیاد وانت نیسان بنزین": "zamyad-pickup-gas",
+            "زامیاد وانت نیسان دوگانه سوز": "zamyad-pickup-cng",
+            "زامیاد وانت نیسان دیزل": "zamyad-pickup-diesel"
+        }
+    },
+    "زوتی": {
+        "همه مدل های زوتی": "zotye",
+        "زوتی آریو": {
+            "همه نوع زوتی آریو": "zotye-ario",
+            "زوتی آریو 1.5 لیتر دنده ای": "zotye-ario-1.5l",
+            "زوتی آریو 1.6 لیتر اتوماتیک": "zotye-ario-1.6l",
+            "زوتی آریو 1.6 لیتر دنده ای": "zotye-ario-1.6lmanual"
+        },
+        "زوتی Z300": "zotye-z300"
+    },
+    "سانگ یانگ": {
+        "همه مدل های سانگ یانگ": "ssangyong",
+        "سانگ یانگ اکتیون": "ssangyong-actyon",
+        "سانگ یانگ تیوولی": {
+            "همه نوع سانگ یانگ تیوولی": "ssangyong-tivoli",
+            "سانگ یانگ تیوولی آرمور": "ssangyong-tivoli-armour",
+            "سانگ یانگ تیوولی اسپرت": "ssangyong-tivoli-sport",
+            "سانگ یانگ تیوولی الیت": "ssangyong-tivoli-elite"
+        },
+        "سانگ یانگ تیوولی (مونتاژ)": {
+            "همه نوع سانگ یانگ تیوولی (مونتاژ)": "ssangyong-tivoliir",
+            "سانگ یانگ تیوولی (مونتاژ) اسپشیال (توربو)": "ssangyong-tivoliir-special",
+            "سانگ یانگ تیوولی (مونتاژ) سولار": "ssangyong-tivoliir-solar",
+            "سانگ یانگ تیوولی (مونتاژ) فایتر (توربو)": "ssangyong-tivoliir-fighter"
+        },
+        "سانگ یانگ رکستون": {
+            "همه نوع سانگ یانگ رکستون": "ssangyong-rexton",
+            "سانگ یانگ رکستون ساده": "ssangyong-rexton-basic",
+            "سانگ یانگ رکستون G4": "ssangyong-rexton-g4"
+        },
+        "سانگ یانگ رکستون (مونتاژ)": {
+            "همه نوع سانگ یانگ رکستون (مونتاژ)": "ssangyong-rextonir",
+            "سانگ یانگ رکستون (مونتاژ) امپرور": "ssangyong-rextonir-emperor",
+            "سانگ یانگ رکستون (مونتاژ) G4": "ssangyong-rextonir-g4"
+        },
+        "سانگ یانگ رودیوس": "ssangyong-rodius",
+        "سانگ یانگ کایرون": "ssangyong-kyron",
+        "سانگ یانگ کوراندو": {
+            "همه نوع سانگ یانگ کوراندو": "ssangyong-korando",
+            "سانگ یانگ کوراندو 2300": "ssangyong-korando-2300",
+            "سانگ یانگ کوراندو 3200": "ssangyong-korando-3200"
+        },
+        "سانگ یانگ موسو": {
+            "همه نوع سانگ یانگ موسو": "ssangyong-musso",
+            "سانگ یانگ موسو 2300": "ssangyong-musso-2300",
+            "سانگ یانگ موسو 3200": "ssangyong-musso-3200"
+        },
+        "سانگ یانگ نیو اکتیون": {
+            "همه نوع سانگ یانگ نیو اکتیون": "ssangyong-newactyon",
+            "سانگ یانگ نیو اکتیون کامفورت": "ssangyong-newactyon-comfort",
+            "سانگ یانگ نیو اکتیون لاکچری": "ssangyong-newactyon-luxury"
+        },
+        "سانگ یانگ نیو کوراندو": {
+            "همه نوع سانگ یانگ نیو کوراندو": "ssangyong-newkorando",
+            "سانگ یانگ نیو کوراندو اپتیموم": "ssangyong-newkorando-optimum",
+            "سانگ یانگ نیو کوراندو پرمیوم": "ssangyong-newkorando-premium",
+            "سانگ یانگ نیو کوراندو پرمیوم پلاس": "ssangyong-newkorando-premiumplus"
+        }
+    },
+    "ساینا": {
+        "همه مدل های ساینا": "saina",
+        "ساینا اتوماتیک": "saina-at",
+        "ساینا پلاس دنده ای": "saina-manualplus",
+        "ساینا EX دنده ای": "saina-exmt",
+        "ساینا S دنده ای": "saina-manuals",
+        "ساینا SX دنده ای": "saina-sxmt"
+    },
+    "سئات": {
+        "همه مدل های سئات": "seat",
+        "سئات لئون": "seat-leon"
+    },
+    "سمند": {
+        "همه مدل های سمند": "samand",
+        "سمند سورن": {
+            "همه نوع سمند سورن": "samand-soren",
+            "سمند سورن پلاس": "samand-soren-plus",
+            "سمند سورن ساده": "samand-soren-basic",
+            "سمند سورن ELX": "samand-soren-elx",
+            "سمند سورن ELX توربو": "samand-soren-elxturbo"
+        },
+        "سمند EL": "samand-el",
+        "سمند LX": {
+            "همه نوع سمند LX": "samand-lx",
+            "سمند LX EF7": "samand-lx-ef7",
+            "سمند LX EF7 دوگانه سوز": "samand-lx-ef7cng",
+            "سمند LX XU7": "samand-lx-basic"
+        },
+        "سمند SE": "samand-se",
+        "سمند X7": "samand-x7"
+    },
+    "سوبارو": {
+        "همه مدل های سوبارو": "subaru",
+        "سوبارو لگاسی": {
+            "همه نوع سوبارو لگاسی": "subaru-legacy",
+            "سوبارو لگاسی تمام چرخ محرک": "subaru-legacy-awd"
+        }
+    },
+    "سوزوکی": {
+        "همه مدل های سوزوکی": "suzuki",
+        "سوزوکی کیزاشی": {
+            "همه نوع سوزوکی کیزاشی": "suzuki-kizashi",
+            "سوزوکی کیزاشی فول": "suzuki-kizashi-full",
+            "سوزوکی کیزاشی نیمه فول": "suzuki-kizashi-basic"
+        },
+        "سوزوکی گراند ویتارا (مونتاژ)": {
+            "همه نوع سوزوکی گراند ویتارا (مونتاژ)": "suzuki-grandvitarair",
+            "سوزوکی گراند ویتارا (مونتاژ) 2.0 لیتر اتوماتیک": "suzuki-grandvitarair-at2.0",
+            "سوزوکی گراند ویتارا (مونتاژ) 2.0 لیتر دنده ای": "suzuki-grandvitarair-mt2.0",
+            "سوزوکی گراند ویتارا (مونتاژ) 2.4 لیتر اتوماتیک": "suzuki-grandvitarair-at2.4",
+            "سوزوکی گراند ویتارا (مونتاژ) 2.4 لیتر دنده ای": "suzuki-grandvitarair-mt2.4"
+        },
+        "سوزوکی گراند ویتارا (وارداتی)": "suzuki-grandvitara"
+    },
+    "سی ام سی": {
+        "همه مدل های سی ام سی": "cmc",
+        "سی ام سی چکر": "cmc-checker"
+    },
+    "سیتروئن": {
+        "همه مدل های سیتروئن": "citroen",
+        "سیتروئن زانتیا": {
+            "همه نوع سیتروئن زانتیا": "citroen-xantia",
+            "سیتروئن زانتیا 1.8 لیتر سوپرلوکس": "citroen-xantia-1.8superlux",
+            "سیتروئن زانتیا 2.0 لیتر SX": "citroen-xantia-2.0sx",
+            "سیتروئن زانتیا 2.0 لیتر X": "citroen-xantia-2.0x"
+        },
+        "سیتروئن C3 (مونتاژ)": "citroen-c3ir",
+        "سیتروئن C5": "citroen-c5"
+    },
+    "سیناد": {
+        "همه مدل های سیناد": "sinad",
+        "سیناد I": "sinad-i",
+        "سیناد II": "sinad-ii"
+    },
+    "شاهین": {
+        "همه مدل های شاهین": "shahin",
+        "شاهین G": "shahin-g"
+    },
+    "شورولت": {
+        "همه مدل های شورولت": "chevrolet",
+        "شورولت ایمپالا": "chevrolet-impala",
+        "شورولت سلبرتی": "chevrolet-celebrity",
+        "شورولت سونیک": "chevrolet-sonic",
+        "شورولت کاپریس": "chevrolet-caprice",
+        "شورولت کامارو": "chevrolet-camaro",
+        "شورولت کوروت": "chevrolet-corvette",
+        "شورولت مونت کارلو": "chevrolet-montecarlo",
+        "شورولت نوا": "chevrolet-nova",
+        "شورولت نوا(مونتاژ)": "chevrolet-novair",
+        "شورولت وانت": "chevrolet-pickup"
+    },
+    "فردا": {
+        "همه مدل های فردا": "farda",
+        "فردا 511": "farda-511",
+        "فردا SX5": "farda-sx5",
+        "فردا SX6": "farda-sx6",
+        "فردا T5": "farda-t5"
+    },
+    "فوتون": {
+        "همه مدل های فوتون": "foton",
+        "فوتون تونلند": {
+            "همه نوع فوتون تونلند": "foton-tunland",
+            "فوتون تونلند 2.0 لیتر": "foton-tunland-2.0l",
+            "فوتون تونلند 2.4 لیتر": "foton-tunland-2.4l",
+            "فوتون تونلند 2.8 لیتر": "foton-tunland-2.8l"
+        },
+        "فوتون ساوانا": {
+            "همه نوع فوتون ساوانا": "foton-sauvana",
+            "فوتون ساوانا اتوماتیک": "foton-sauvana-luxuryat"
+        },
+        "فوتون ساوانا (مونتاژ)": "foton-sauvanair"
+    },
+    "فولکس": {
+        "همه مدل های فولکس": "volkswagen",
+        "فولکس بیتل": "volkswagen-beetle",
+        "فولکس بیتل کروک": "volkswagen-beetleconvertible",
+        "فولکس پاسات": "volkswagen-passat",
+        "فولکس ترنسپورتر": "volkswagen-transporter",
+        "فولکس تیگوان": "volkswagen-tiguan",
+        "فولکس گل": "volkswagen-gol",
+        "فولکس گلف": {
+            "همه نوع فولکس گلف": "volkswagen-golf",
+            "فولکس گلف ساده": "volkswagen-golf-basic",
+            "فولکس گلف GTI": "volkswagen-golf-gti"
+        }
+    },
+    "فونیکس": {
+        "همه مدل های فونیکس": "fownix",
+        "فونیکس آریزو 6 پرو": "fownix-arrizo6pro",
+        "فونیکس تیگو 7 پرو": {
+            "همه نوع فونیکس تیگو 7 پرو": "fownix-tiggo7pro",
+            "فونیکس تیگو 7 پرو اکسلنت": "fownix-tiggo7pro-excellent"
+        },
+        "فونیکس تیگو 8 پرو": {
+            "همه نوع فونیکس تیگو 8 پرو": "fownix-tiggo8pro",
+            "فونیکس تیگو 8 پرو پرمیوم": "fownix-tiggo8pro-premium"
+        }
+    },
+    "فیات": {
+        "همه مدل های فیات": "fiat",
+        "فیات 500": "fiat-500",
+        "فیات اسپایدر": "fiat-spider",
+        "فیات دوکاتو": "fiat-ducato",
+        "فیات سی ینا": "fiat-siena",
+        "فیات گوناگون": "fiat-misc"
+    },
+    "فیدلیتی": {
+        "همه مدل های فیدلیتی": "fidelity",
+        "فیدلیتی پرایم": {
+            "همه نوع فیدلیتی پرایم": "fidelity-prime",
+            "فیدلیتی پرایم پنج نفره": "fidelity-prime-5seater",
+            "فیدلیتی پرایم هفت نفره": "fidelity-prime-7seater"
+        }
+    },
+    "کاپرا": {
+        "همه مدل های کاپرا": "capra",
+        "کاپرا 2": {
+            "همه نوع کاپرا 2": "capra-2",
+            "کاپرا 2 دو دیفرانسیل": "capra-2-4wd"
+        },
+        "کاپرا دو کابین": {
+            "همه نوع کاپرا دو کابین": "capra-4door",
+            "کاپرا دو کابین تک دیفرانسیل": "capra-4door-2wd",
+            "کاپرا دو کابین دو دیفرانسیل": "capra-4door-4wd"
+        }
+    },
+    "کادیلاک": {
+        "همه مدل های کادیلاک": "cadillac",
+        "کادیلاک سویل(مونتاژ)": "cadillac-sevilleir",
+        "کادیلاک فلیت وود": "cadillac-fleetwood"
+    },
+    "کارا": {
+        "همه مدل های کارا": "cara",
+        "کارا تک کابین": {
+            "همه نوع کارا تک کابین": "cara-2door",
+            "کارا تک کابین 2 لیتر": "cara-2door-2.0liter"
+        },
+        "کارا دو کابین": {
+            "همه نوع کارا دو کابین": "cara-4door",
+            "کارا دو کابین 1.7 لیتر": "cara-4door-1.7liter",
+            "کارا دو کابین 2 لیتر": "cara-4door-2.0liter"
+        }
+    },
+    "کوییک": {
+        "همه مدل های کوییک": "quick",
+        "کوییک اتوماتیک پلاس": "quick-atfullplus",
+        "کوییک دنده ای": "quick-manual",
+        "کوییک دنده ای R": "quick-manualr",
+        "کوییک دنده ای R پلاس": "quick-manualrplus",
+        "کوییک دنده ای S": "quick-manuals"
+    },
+    "کی ام سی": {
+        "همه مدل های کی ام سی": "kmc",
+        "کی ام سی J7": "kmc-j7",
+        "کی ام سی K7": "kmc-k7",
+        "کی ام سی T8": "kmc-t8"
+    },
+    "کیا": {
+        "همه مدل های کیا": "kia",
+        "کیا اپتیما": {
+            "همه نوع کیا اپتیما": "kia-optima",
+            "کیا اپتیما 4 سیلندر ساده": "kia-optima-basic",
+            "کیا اپتیما 4 سیلندر GT لاین": "kia-optima-gtline",
+            "کیا اپتیما 6 سیلندر": "kia-optima-6cylinder"
+        },
+        "کیا اپتیما هیبرید": "kia-optimahybrid",
+        "کیا اپیروس": "kia-opirus",
+        "کیا اسپورتیج": {
+            "همه نوع کیا اسپورتیج": "kia-sportage",
+            "کیا اسپورتیج 4 سیلندر ساده": "kia-sportage-basic",
+            "کیا اسپورتیج 4 سیلندر GT لاین": "kia-sportage-gtline",
+            "کیا اسپورتیج 6 سیلندر": "kia-sportage-6cylinder"
+        },
+        "کیا پیکانتو": "kia-picanto",
+        "کیا ریو (مونتاژ)": {
+            "همه نوع کیا ریو (مونتاژ)": "kia-rioir",
+            "کیا ریو (مونتاژ) اتوماتیک": "kia-rioir-at",
+            "کیا ریو (مونتاژ) دنده ای": "kia-rioir-mt"
+        },
+        "کیا ریو سدان": "kia-riosedan",
+        "کیا ریو هاچ بک": "kia-riohatchback",
+        "کیا سراتو": {
+            "همه نوع کیا سراتو": "kia-cerato",
+            "کیا سراتو 1.6 لیتر اتوماتیک": "kia-cerato-1600at",
+            "کیا سراتو 2.0 لیتر اتوماتیک": "kia-cerato-2000"
+        },
+        "کیا سراتو (مونتاژ)": {
+            "همه نوع کیا سراتو (مونتاژ)": "kia-ceratoir",
+            "کیا سراتو (مونتاژ) 1.6 لیتر آپشنال": "kia-ceratoir-1600optional",
+            "کیا سراتو (مونتاژ) 1.6 لیتر ساده": "kia-ceratoir-1600basic",
+            "کیا سراتو (مونتاژ) 2.0 لیتر آپشنال": "kia-ceratoir-2000optional",
+            "کیا سراتو (مونتاژ) 2.0 لیتر ساده": "kia-ceratoir-2000basic"
+        },
+        "کیا سراتو کوپ": "kia-ceratokoup",
+        "کیا سورنتو": {
+            "همه نوع کیا سورنتو": "kia-sorento",
+            "کیا سورنتو 4 سیلندر ساده": "kia-sorento-basic",
+            "کیا سورنتو 4 سیلندر GT لاین": "kia-sorento-gtline",
+            "کیا سورنتو 6 سیلندر": "kia-sorento-6cylinder"
+        },
+        "کیا کادنزا": "kia-cadenza",
+        "کیا کارناوال": "kia-carnival",
+        "کیا کارنز": "kia-carens",
+        "کیا موهاوی": {
+            "همه نوع کیا موهاوی": "kia-mohave",
+            "کیا موهاوی 6 سیلندر": "kia-mohave-v6",
+            "کیا موهاوی 8 سیلندر": "kia-mohave-v8"
+        }
+    },
+    "گریت وال": {
+        "همه مدل های گریت وال": "greatwall",
+        "گریت وال وانت دییر": "greatwall-deer",
+        "گریت وال وینگل 3": "greatwall-wingle3",
+        "گریت وال وینگل 5 تک کابین": {
+            "همه نوع گریت وال وینگل 5 تک کابین": "greatwall-wingle52door",
+            "گریت وال وینگل 5 تک کابین تک دیفرانسیل": "greatwall-wingle52door-2wd"
+        },
+        "گریت وال وینگل 5 دو کابین": {
+            "همه نوع گریت وال وینگل 5 دو کابین": "greatwall-wingle5",
+            "گریت وال وینگل 5 دو کابین تک دیفرانسیل": "greatwall-wingle5-2wd"
+        },
+        "گریت وال هاوال H6": "greatwall-havalh6",
+        "گریت وال هاوال M4": "greatwall-havalm4",
+        "گریت وال C30": {
+            "همه نوع گریت وال C30": "greatwall-c30",
+            "گریت وال C30 دنده ای": "greatwall-c30-mt"
+        }
+    },
+    "گک": {
+        "همه مدل های گک": "gacgonow",
+        "گک ترامپچی GA3S": "gacgonow-trumpchiga3s",
+        "گک تروی": "gacgonow-troy"
+    },
+    "لاماری": {
+        "همه مدل های لاماری": "lamari",
+        "لاماری ایما": "lamari-eama"
+    },
+    "لکسوس": {
+        "همه مدل های لکسوس": "lexus",
+        "لکسوس CT": {
+            "همه نوع لکسوس CT": "lexus-ct",
+            "لکسوس CT 200h": "lexus-ct-200h",
+            "لکسوس CT 200h fsport": "lexus-ct-200hfsport"
+        },
+        "لکسوس ES": {
+            "همه نوع لکسوس ES": "lexus-es",
+            "لکسوس ES 250": "lexus-es-250",
+            "لکسوس ES 350": "lexus-es-350"
+        },
+        "لکسوس GS": {
+            "همه نوع لکسوس GS": "lexus-gs",
+            "لکسوس GS 250": "lexus-gs-250",
+            "لکسوس GS 250 fsport": "lexus-gs-250fsport",
+            "لکسوس GS 430": "lexus-gs-430"
+        },
+        "لکسوس IS": {
+            "همه نوع لکسوس IS": "lexus-is",
+            "لکسوس IS 250": "lexus-is-250",
+            "لکسوس IS 250 fsport": "lexus-is-250fsport",
+            "لکسوس IS 300": "lexus-is-300"
+        },
+        "لکسوس IS کروک": {
+            "همه نوع لکسوس IS کروک": "lexus-isconvertible",
+            "لکسوس IS کروک 300": "lexus-isconvertible-300"
+        },
+        "لکسوس LS": {
+            "همه نوع لکسوس LS": "lexus-ls",
+            "لکسوس LS 460": "lexus-ls-460"
+        },
+        "لکسوس LX": {
+            "همه نوع لکسوس LX": "lexus-lx",
+            "لکسوس LX 570": "lexus-lx-570"
+        },
+        "لکسوس NX": {
+            "همه نوع لکسوس NX": "lexus-nx",
+            "لکسوس NX 200 توربو": "lexus-nx-200t",
+            "لکسوس NX 200 توربو  fsport": "lexus-nx-200tfsport"
+        },
+        "لکسوس NX هیبرید": {
+            "همه نوع لکسوس NX هیبرید": "lexus-nxhybrid",
+            "لکسوس NX هیبرید 300h": "lexus-nxhybrid-300h",
+            "لکسوس NX هیبرید 300h fsport": "lexus-nxhybrid-300hfsport"
+        },
+        "لکسوس RX": {
+            "همه نوع لکسوس RX": "lexus-rx",
+            "لکسوس RX 200 توربو لاکچری": "lexus-rx-200tluxury",
+            "لکسوس RX 200 توربو fsport": "lexus-rx-200tfsport",
+            "لکسوس RX 350": "lexus-rx-350",
+            "لکسوس RX 350 fsport": "lexus-rx-350fsport"
+        },
+        "لکسوس SC": {
+            "همه نوع لکسوس SC": "lexus-sc",
+            "لکسوس SC 430": "lexus-sc-430"
+        }
+    },
+    "لندرور": {
+        "همه مدل های لندرور": "landrover",
+        "لندرور رنجرور": "landrover-rangerover",
+        "لندرور رنجرور اسپرت": "landrover-rangeroversport",
+        "لندرور رنجرور ایووک": "landrover-rangeroverevoque",
+        "لندرور گوناگون": "landrover-misc",
+        "لندرور لندرور سری (مونتاژ)": "landrover-seriesir",
+        "لندرور وانت": "landrover-pickup"
+    },
+    "لندمارک": {
+        "همه مدل های لندمارک": "landmark",
+        "لندمارک V7": "landmark-v7"
+    },
+    "لوتوس": {
+        "همه مدل های لوتوس": "lotus",
+        "لوتوس الیزه": {
+            "همه نوع لوتوس الیزه": "lotus-elise",
+            "لوتوس الیزه 220 کاپ": "lotus-elise-220cup",
+            "لوتوس الیزه S": "lotus-elise-s"
+        }
+    },
+    "لوکسژن": {
+        "همه مدل های لوکسژن": "luxgen",
+        "لوکسژن U6": "luxgen-u6"
+    },
+    "لیفان": {
+        "همه مدل های لیفان": "lifan",
+        "لیفان 520": "lifan-520",
+        "لیفان 520i": "lifan-520i",
+        "لیفان 620": {
+            "همه نوع لیفان 620": "lifan-620",
+            "لیفان 620 1.6 لیتر": "lifan-620-1.6",
+            "لیفان 620 1.8 لیتر": "lifan-620-1.8"
+        },
+        "لیفان 820": "lifan-820",
+        "لیفان X50": {
+            "همه نوع لیفان X50": "lifan-x50",
+            "لیفان X50 اتوماتیک": "lifan-x50-at",
+            "لیفان X50 دنده ای": "lifan-x50-mt"
+        },
+        "لیفان X60": {
+            "همه نوع لیفان X60": "lifan-x60",
+            "لیفان X60 اتوماتیک": "lifan-x60-at",
+            "لیفان X60 دنده ای": "lifan-x60-mt"
+        },
+        "لیفان X70": "lifan-x70"
+    },
+    "لینکلن": {
+        "همه مدل های لینکلن": "lincoln",
+        "لینکلن کنتینانتال": "lincoln-continental",
+        "لینکلن MKZ": "lincoln-mkz"
+    },
+    "مازراتی": {
+        "همه مدل های مازراتی": "maserati",
+        "مازراتی کواتروپورته": {
+            "همه نوع مازراتی کواتروپورته": "maserati-quattroporte",
+            "مازراتی کواتروپورته ساده": "maserati-quattroporte-basic",
+            "مازراتی کواتروپورته GTS": "maserati-quattroporte-gts",
+            "مازراتی کواتروپورته S": "maserati-quattroporte-s"
+        },
+        "مازراتی گرن توریسمو": {
+            "همه نوع مازراتی گرن توریسمو": "maserati-granturismo",
+            "مازراتی گرن توریسمو S": "maserati-granturismo-s"
+        },
+        "مازراتی گرن کبریو": {
+            "همه نوع مازراتی گرن کبریو": "maserati-grancabrio",
+            "مازراتی گرن کبریو MC": "maserati-grancabrio-mc",
+            "مازراتی گرن کبریو S": "maserati-grancabrio-s"
+        },
+        "مازراتی گیبلی": "maserati-ghibli"
+    },
+    "مزدا": {
+        "همه مدل های مزدا": "mazda",
+        "مزدا 2 هاچ بک": "mazda-2ir",
+        "مزدا 3": "mazda-3",
+        "مزدا 3 (مونتاژ)": {
+            "همه نوع مزدا 3 (مونتاژ)": "mazda-3ir",
+            "مزدا 3 (مونتاژ) تیپ1": "mazda-3ir-type1",
+            "مزدا 3 (مونتاژ) تیپ2": "mazda-3ir-type2",
+            "مزدا 3 (مونتاژ) تیپ3": "mazda-3ir-type3"
+        },
+        "مزدا 3 جدید صندوق دار (مونتاژ)": {
+            "همه نوع مزدا 3 جدید صندوق دار (مونتاژ)": "mazda-3sedan",
+            "مزدا 3 جدید صندوق دار (مونتاژ) 1.6 لیتر دنده ای": "mazda-3sedan-1.6lmanual",
+            "مزدا 3 جدید صندوق دار (مونتاژ) 2.0 لیتر تیپ 1": "mazda-3sedan-2.0ltype1",
+            "مزدا 3 جدید صندوق دار (مونتاژ) 2.0 لیتر تیپ 2": "mazda-3sedan-2.0ltype2",
+            "مزدا 3 جدید صندوق دار (مونتاژ) 2.0 لیتر تیپ 3": "mazda-3sedan-2.0ltype3",
+            "مزدا 3 جدید صندوق دار (مونتاژ) 2.0 لیتر تیپ 4": "mazda-3sedan-2.0ltype4"
+        },
+        "مزدا 3 جدید هاچ بک (مونتاژ)": {
+            "همه نوع مزدا 3 جدید هاچ بک (مونتاژ)": "mazda-3hatchback",
+            "مزدا 3 جدید هاچ بک (مونتاژ) تیپ1": "mazda-3hatchback-type1",
+            "مزدا 3 جدید هاچ بک (مونتاژ) تیپ3": "mazda-3hatchback-type3"
+        },
+        "مزدا 323": {
+            "همه نوع مزدا 323": "mazda-323",
+            "مزدا 323 اتوماتیک": "mazda-323-at",
+            "مزدا 323 دنده ای": "mazda-323-mt"
+        },
+        "مزدا 6": "mazda-6",
+        "مزدا وانت (وارداتی)": "mazda-pickup",
+        "مزدا وانت تک‌کابين": "mazda-pickup2doorir",
+        "مزدا وانت دوکابين": "mazda-pickup4doorir"
+    },
+    "مکث موتور": {
+        "همه مدل های مکث موتور": "maxmotor",
+        "مکث موتور کلوت": {
+            "همه نوع مکث موتور کلوت": "maxmotor-kalut",
+            "مکث موتور کلوت اتوماتیک": "maxmotor-kalut-at",
+            "مکث موتور کلوت دنده‌ای": "maxmotor-kalut-mt"
+        }
+    },
+    "میتسوبیشی": {
+        "همه مدل های میتسوبیشی": "mitsubishi",
+        "میتسوبیشی اوتلندر": {
+            "همه نوع میتسوبیشی اوتلندر": "mitsubishi-outlander",
+            "میتسوبیشی اوتلندر تیپ 3": "mitsubishi-outlander-type3",
+            "میتسوبیشی اوتلندر تیپ 4": "mitsubishi-outlander-type4",
+            "میتسوبیشی اوتلندر تیپ 5": "mitsubishi-outlander-type5"
+        },
+        "میتسوبیشی اوتلندر PHEV": "mitsubishi-outlanderphev",
+        "میتسوبیشی پاجرو چهار در": {
+            "همه نوع میتسوبیشی پاجرو چهار در": "mitsubishi-pajero4door",
+            "میتسوبیشی پاجرو چهار در 6 سیلندر": "mitsubishi-pajero4door-6cylinder"
+        },
+        "میتسوبیشی پاجرو دو در": {
+            "همه نوع میتسوبیشی پاجرو دو در": "mitsubishi-pajero2door",
+            "میتسوبیشی پاجرو دو در 4 سیلندر": "mitsubishi-pajero2door-4cylinder",
+            "میتسوبیشی پاجرو دو در 6 سیلندر": "mitsubishi-pajero2door-6cylinder"
+        },
+        "میتسوبیشی پاجرو(مونتاژ)": "mitsubishi-pajeroir",
+        "میتسوبیشی گالانت": {
+            "همه نوع میتسوبیشی گالانت": "mitsubishi-galant",
+            "میتسوبیشی گالانت 4 سیلندر": "mitsubishi-galant-4cylinder"
+        },
+        "میتسوبیشی لنسر": {
+            "همه نوع میتسوبیشی لنسر": "mitsubishi-lancer",
+            "میتسوبیشی لنسر 1.6 لیتر اتوماتیک": "mitsubishi-lancer-1.6at",
+            "میتسوبیشی لنسر 1.6 لیتر دنده ای": "mitsubishi-lancer-1.6mt",
+            "میتسوبیشی لنسر 1.8 لیتر اتوماتیک": "mitsubishi-lancer-1.8at"
+        },
+        "میتسوبیشی میراژ": "mitsubishi-mirage",
+        "میتسوبیشی وانت": "mitsubishi-pickup",
+        "میتسوبیشی ASX": {
+            "همه نوع میتسوبیشی ASX": "mitsubishi-asx",
+            "میتسوبیشی ASX تيپ 2": "mitsubishi-asx-midline",
+            "میتسوبیشی ASX تیپ 4": "mitsubishi-asx-type4"
+        }
+    },
+    "مینی": {
+        "همه مدل های مینی": "mini",
+        "مینی کانتری من": {
+            "همه نوع مینی کانتری من": "mini-countryman",
+            "مینی کانتری من S": "mini-countryman-s"
+        },
+        "مینی کوپر": {
+            "همه نوع مینی کوپر": "mini-cooper",
+            "مینی کوپر 3 در S": "mini-cooper-3doorss",
+            "مینی کوپر 5 در": "mini-cooper-5door",
+            "مینی کوپر 5 در S": "mini-cooper-5doorss"
+        }
+    },
+    "نیسان": {
+        "همه مدل های نیسان": "nissan",
+        "نیسان ایکس تریل": "nissan-xtrail",
+        "نیسان پاترول (وارداتی)": {
+            "همه نوع نیسان پاترول (وارداتی)": "nissan-patrolim",
+            "نیسان پاترول (وارداتی) 6 سیلندر 4.2": "nissan-patrolim-v64200cc"
+        },
+        "نیسان پاترول چهار در": {
+            "همه نوع نیسان پاترول چهار در": "nissan-patrol4doorir",
+            "نیسان پاترول چهار در 4 سیلندر": "nissan-patrol4doorir-4cylinder",
+            "نیسان پاترول چهار در 6 سیلندر": "nissan-patrol4doorir-6cylinder"
+        },
+        "نیسان پاترول دو در": "nissan-patrol2doorir",
+        "نیسان پت فایندر": "nissan-pathfinder",
+        "نیسان پیکاپ تک کابین": "nissan-pickupir1cab",
+        "نیسان پیکاپ دو کابین": "nissan-pickupir2cab",
+        "نیسان تی ینا": "nissan-teanaim",
+        "نیسان تی ینا (مونتاژ)": {
+            "همه نوع نیسان تی ینا (مونتاژ)": "nissan-teanair",
+            "نیسان تی ینا (مونتاژ) XL": "nissan-teanair-xl",
+            "نیسان تی ینا (مونتاژ) XV": "nissan-teanair-xv"
+        },
+        "نیسان جوک": {
+            "همه نوع نیسان جوک": "nissan-juke",
+            "نیسان جوک اسپرت": "nissan-juke-sport",
+            "نیسان جوک اسکای پک": "nissan-juke-skypack",
+            "نیسان جوک پلاتینیوم": "nissan-juke-platinum"
+        },
+        "نیسان رونیز": "nissan-roniz",
+        "نیسان سرانزا": "nissan-seranza",
+        "نیسان قشقایی": {
+            "همه نوع نیسان قشقایی": "nissan-qashqai",
+            "نیسان قشقایی LE": "nissan-qashqai-leawd",
+            "نیسان قشقایی SE": "nissan-qashqai-se2wd"
+        },
+        "نیسان ماکسیما": {
+            "همه نوع نیسان ماکسیما": "nissan-maximair",
+            "نیسان ماکسیما اتوماتیک": "nissan-maximair-at",
+            "نیسان ماکسیما دنده ای": "nissan-maximair-mt"
+        },
+        "نیسان مورانو": {
+            "همه نوع نیسان مورانو": "nissan-murano",
+            "نیسان مورانو LE": "nissan-murano-le",
+            "نیسان مورانو SE": "nissan-murano-se",
+            "نیسان مورانو SL": "nissan-murano-sl"
+        }
+    },
+    "ولوو": {
+        "همه مدل های ولوو": "volvo",
+        "ولوو 240": "volvo-240",
+        "ولوو 940": "volvo-940",
+        "ولوو C70 کروک": "volvo-c70convertible",
+        "ولوو PV 544": "volvo-pv544",
+        "ولوو V40": {
+            "همه نوع ولوو V40": "volvo-v40",
+            "ولوو V40 R دیزاین": "volvo-v40-rdesign",
+            "ولوو V40 R دیزاین پلاس": "volvo-v40-rdesign plus"
+        },
+        "ولوو XC60": {
+            "همه نوع ولوو XC60": "volvo-xc60",
+            "ولوو XC60 R دیزاین": "volvo-xc60-rdesign",
+            "ولوو XC60 R دیزاین پلاس": "volvo-xc60-rdesignplus",
+            "ولوو XC60 SE LUX": "volvo-xc60-selux"
+        },
+        "ولوو XC90": {
+            "همه نوع ولوو XC90": "volvo-xc90",
+            "ولوو XC90 اینسکریپشن": "volvo-xc90-inscription",
+            "ولوو XC90 مومنتوم": "volvo-xc90-momentum",
+            "ولوو XC90 R دیزاین": "volvo-xc90-rdesign"
+        }
+    },
+    "ون": {
+        "همه مدل های ون": "van",
+        "ون ایویکو": "van-iveco",
+        "ون دلیکا": "van-delica",
+        "ون کاروان سایپا": "van-caravansaipa",
+        "ون نارون": "van-narvan"
+    },
+    "هاوال": {
+        "همه مدل های هاوال": "haval",
+        "هاوال H2": "haval-h2",
+        "هاوال H9": "haval-h9"
+    },
+    "هایما": {
+        "همه مدل های هایما": "haima",
+        "هایما S5": {
+            "همه نوع هایما S5": "haima-s5",
+            "هایما S5 6 سرعته اتوماتیک": "haima-s5-6at",
+            "هایما S5 گیربکس CVT": "haima-s5-cvt"
+        },
+        "هایما S7": {
+            "همه نوع هایما S7": "haima-s7",
+            "هایما S7 1.8 لیتر توربو": "haima-s7-1.8lturbo",
+            "هایما S7 1.8 لیتر توربو پلاس": "haima-s7-1.8lturboplus",
+            "هایما S7 2.0 لیتر": "haima-s7-2.0l"
+        }
+    },
+    "هن تنگ": {
+        "همه مدل های هن تنگ": "hanteng",
+        "هن تنگ X5 (مونتاژ)": "hanteng-x5ir",
+        "هن تنگ X7 (مونتاژ)": "hanteng-x7ir"
+    },
+    "هوندا": {
+        "همه مدل های هوندا": "honda",
+        "هوندا آکورد": {
+            "همه نوع هوندا آکورد": "honda-accord",
+            "هوندا آکورد EX": "honda-accord-ex",
+            "هوندا آکورد EXA": "honda-accord-exa",
+            "هوندا آکورد EXB": "honda-accord-exb",
+            "هوندا آکورد EXL": "honda-accord-exl"
+        },
+        "هوندا پریلود": "honda-prelude",
+        "هوندا سیویک": "honda-civic",
+        "هوندا لجند": "honda-legend",
+        "هوندا CR-V": {
+            "همه نوع هوندا CR-V": "honda-crv",
+            "هوندا CR-V تورینگ": "honda-crv-touring",
+            "هوندا CR-V EXL": "honda-crv-ex"
+        }
+    },
+    "هیلمن": {
+        "همه مدل های هیلمن": "hillman",
+        "هیلمن اونجر": "hillman-avenger"
+    },
+    "هیوسو": {
+        "همه مدل های هیوسو": "hyosow",
+        "هیوسو T205": "hyosow-t205"
+    },
+    "هیوندای": {
+        "همه مدل های هیوندای": "hyundai",
+        "هیوندای آزرا (گرنجور)": {
+            "همه نوع هیوندای آزرا (گرنجور)": "hyundai-azera",
+            "هیوندای آزرا (گرنجور) 4 سیلندر": "hyundai-azera-4cylinder",
+            "هیوندای آزرا (گرنجور) 6 سیلندر": "hyundai-azera-6cylinder"
+        },
+        "هیوندای آوانته": {
+            "همه نوع هیوندای آوانته": "hyundai-avante",
+            "هیوندای آوانته اتوماتیک": "hyundai-avante-at",
+            "هیوندای آوانته دنده ای": "hyundai-avante-mt"
+        },
+        "هیوندای اکسنت": {
+            "همه نوع هیوندای اکسنت": "hyundai-accent",
+            "هیوندای اکسنت بلو": "hyundai-accent-blue",
+            "هیوندای اکسنت فول": "hyundai-accent-full"
+        },
+        "هیوندای اکسنت (مونتاژ)": "hyundai-accentir",
+        "هیوندای النترا": {
+            "همه نوع هیوندای النترا": "hyundai-elantra",
+            "هیوندای النترا 1.6 لیتر": "hyundai-elantra-1.6l",
+            "هیوندای النترا 1.8 لیتر": "hyundai-elantra-1.8l",
+            "هیوندای النترا 2.0 لیتر": "hyundai-elantra-2.0l"
+        },
+        "هیوندای النترا (مونتاژ)": "hyundai-elantrair",
+        "هیوندای توسان (ix35)": {
+            "همه نوع هیوندای توسان (ix35)": "hyundai-tucsonix35",
+            "هیوندای توسان (ix35) 2.0 لیتر تک دیفرانسیل": "hyundai-tucsonix35-2.0l2wd",
+            "هیوندای توسان (ix35) 2.0 لیتر دو دیفرانسیل": "hyundai-tucsonix35-2.0l4wd",
+            "هیوندای توسان (ix35) 2.4 لیتر": "hyundai-tucsonix35-2.4l",
+            "هیوندای توسان (ix35) 2.7 لیتر": "hyundai-tucsonix35-2.7l"
+        },
+        "هیوندای جنسیس": "hyundai-genesis",
+        "هیوندای جنسیس کوپه": "hyundai-genesiscoupe",
+        "هیوندای سانتافه (ix45)": {
+            "همه نوع هیوندای سانتافه (ix45)": "hyundai-santafeix45",
+            "هیوندای سانتافه (ix45) 4 سیلندر تک دیفرانسیل": "hyundai-santafeix45-3500cc",
+            "هیوندای سانتافه (ix45) 4 سیلندر دو دیفرانسیل": "hyundai-santafeix45-2400cc",
+            "هیوندای سانتافه (ix45) 6 سیلندر": "hyundai-santafeix45-2700cc"
+        },
+        "هیوندای سنتنیال": "hyundai-centennial",
+        "هیوندای سوناتا": {
+            "همه نوع هیوندای سوناتا": "hyundai-sonata",
+            "هیوندای سوناتا چهار سیلندر اتوماتیک": "hyundai-sonata-4cylautomatic",
+            "هیوندای سوناتا چهار سیلندر دنده ای": "hyundai-sonata-4cylmanual",
+            "هیوندای سوناتا شش سیلندر اتوماتیک": "hyundai-sonata-6cylautomatic"
+        },
+        "هیوندای سوناتا هیبرید": {
+            "همه نوع هیوندای سوناتا هیبرید": "hyundai-sonatahybrid",
+            "هیوندای سوناتا هیبرید تیپ 1 (GL)": "hyundai-sonatahybrid-gl",
+            "هیوندای سوناتا هیبرید تیپ 2 (GLS)": "hyundai-sonatahybrid-gls",
+            "هیوندای سوناتا هیبرید تیپ 3 (GLS Plus)": "hyundai-sonatahybrid-glsplus"
+        },
+        "هیوندای کوپه": {
+            "همه نوع هیوندای کوپه": "hyundai-coupe",
+            "هیوندای کوپه اتوماتیک": "hyundai-coupe-at",
+            "هیوندای کوپه دنده ای": "hyundai-coupe-mt"
+        },
+        "هیوندای وراکروز (ix55)": "hyundai-veracruzix55",
+        "هیوندای ورنا": {
+            "همه نوع هیوندای ورنا": "hyundai-verna",
+            "هیوندای ورنا اتوماتیک": "hyundai-verna-at",
+            "هیوندای ورنا دنده ای": "hyundai-verna-mt"
+        },
+        "هیوندای ولستر": "hyundai-veloster",
+        "هیوندای H 350": "hyundai-h350",
+        "هیوندای H1": "hyundai-h1",
+        "هیوندای i10 (مونتاژ)": "hyundai-i10ir",
+        "هیوندای i20": "hyundai-i20",
+        "هیوندای i20 (مونتاژ)": "hyundai-i20ir",
+        "هیوندای i30": "hyundai-i30",
+        "هیوندای i40": "hyundai-i40",
+        "هیوندای i40 استیشن": "hyundai-i40sw"
+    },
+    "یوآز": {
+        "همه مدل های یوآز": "uaz",
+        "یوآز پاتریوت": {
+            "همه نوع یوآز پاتریوت": "uaz-patriot",
+            "یوآز پاتریوت اتوماتیک": "uaz-patriot-at",
+            "یوآز پاتریوت دنده ای": "uaz-patriot-mt"
+        },
+        "یوآز پیکاپ": {
+            "همه نوع یوآز پیکاپ": "uaz-pickup",
+            "یوآز پیکاپ اتوماتیک": "uaz-pickup-at",
+            "یوآز پیکاپ دنده ای": "uaz-pickup-mt"
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "کلاس موتور": {
+        "query_keyword": "body",
+        "details": [
+            {
+                "name": "خیابانی",
+                "query_param": "street"
+            },
+            {
+                "name": "اسکوتر",
+                "query_param": "scooter"
+            },
+            {
+                "name": "طرح سی‌جی",
+                "query_param": "cg"
+            },
+            {
+                "name": "ريس",
+                "query_param": "race"
+            },
+            {
+                "name": "بیابانی",
+                "query_param": "off-road"
+            },
+            {
+                "name": "چهارچرخ",
+                "query_param": "atv"
+            },
+            {
+                "name": "کروزر",
+                "query_param": "cruiser"
+            },
+            {
+                "name": "مینی",
+                "query_param": "mini"
+            }
+        ]
+    },
+    "رنگ بدنه": {
+        "query_keyword": "color",
+        "details": [
+            {
+                "name": "مشکی‌",
+                "query_param": "black"
+            },
+            {
+                "name": "سفید",
+                "query_param": "white"
+            },
+            {
+                "name": "آبی",
+                "query_param": "blue"
+            },
+            {
+                "name": "قرمز",
+                "query_param": "red"
+            },
+            {
+                "name": "سبز",
+                "query_param": "green"
+            },
+            {
+                "name": "نوک‌مدادی‌",
+                "query_param": "anthracite‌"
+            },
+            {
+                "name": "خاکستری‌",
+                "query_param": "gray"
+            },
+            {
+                "name": "نقره‌ای",
+                "query_param": "silver"
+            },
+            {
+                "name": "نارنجی",
+                "query_param": "orange"
+            },
+            {
+                "name": "سرمه ای",
+                "query_param": "dark-blue"
+            },
+            {
+                "name": "زرد‌",
+                "query_param": "yellow"
+            },
+            {
+                "name": "قهوه‌ای‌",
+                "query_param": "brown‌"
+            },
+            {
+                "name": "آلبالویی‌",
+                "query_param": "cherry"
+            },
+            {
+                "name": "طلایی",
+                "query_param": "gold"
+            },
+            {
+                "name": "کرم",
+                "query_param": "cream"
+            },
+            {
+                "name": "بنفش",
+                "query_param": "purple"
+            },
+            {
+                "name": "صورتی‌",
+                "query_param": "pink‌"
+            },
+            {
+                "name": "بادمجانی",
+                "query_param": "thistle"
+            }
+        ]
+    },
+    "گیربکس": {
+        "query_keyword": "transmission",
+        "details": [
+            {
+                "name": "دنده ای",
+                "query_param": "manual"
+            },
+            {
+                "name": "اتوماتیک",
+                "query_param": "automatic"
+            }
+        ]
+    },
+    "سوخت": {
+        "query_keyword": "fuel",
+        "details": [
+            {
+                "name": "بنزینی",
+                "query_param": "gasoline"
+            },
+            {
+                "name": "برقی",
+                "query_param": "electric"
+            }
+        ]
+    }
+}

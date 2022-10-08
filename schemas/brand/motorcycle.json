@@ -1,0 +1,618 @@
+{
+    "آپریلیا": {
+        "همه مدل های آپریلیا": "aprilia",
+        "RSV4 R": "aprilia-rsv4r",
+        "SR 150": "aprilia-sr150",
+        "SXR 160": "aprilia-sxr160"
+    },
+    "اس وای ام": {
+        "همه مدل های اس وای ام": "sym",
+        "185": "sym-185",
+        "200": "sym-200",
+        "250": "sym-250",
+        "فیدل 3": "sym-fiddel3",
+        "فیدل کلاسیک": "sym-fiddelclassic",
+        "گلکسی CL 150": "sym-galaxycl150",
+        "گلکسی CX 180": "sym-galaxycx180",
+        "گلکسی FX 150": "sym-galaxyfx150",
+        "گلکسی J 200": "sym-galaxyg200",
+        "گلکسی JT200": "sym-galaxyjt200",
+        "گلکسی NA 180": "sym-galaxyna180",
+        "گلکسی NH 180": "sym-galaxynh180",
+        "گلکسی NH 250": "sym-galaxynh250",
+        "گلکسی SF180": "sym-galaxysf180",
+        "گلکسی SR 200": "sym-galaxysr200",
+        "گلکسی TN 110": "sym-galaxytn110",
+        "گلکسی X 125": "sym-galaxyx125",
+        "لاکی 180": "sym-lucky180",
+        "لاکی T3 250": "sym-luckyt3250"
+    },
+    "استلز": {
+        "همه مدل های استلز": "stels",
+        "850": "stels-850"
+    },
+    "استیگو": {
+        "همه مدل های استیگو": "stigo",
+        "250 وات": "stigo-250w"
+    },
+    "اسکوتر متفرقه": {
+        "همه مدل های اسکوتر متفرقه": "scootermisc",
+        "150": "scootermisc-150",
+        "گوناگون": "scootermisc-misc"
+    },
+    "اصفهان سیکلت": {
+        "همه مدل های اصفهان سیکلت": "esfahancyclet",
+        "جترو 200": "esfahancyclet-jetro200",
+        "جترو 200 (تریل)": "esfahancyclet-jetro200trail"
+    },
+    "ام وی آگوستا": {
+        "همه مدل های ام وی آگوستا": "mvagusta",
+        "ریوالی 800": "mvagusta-rivale800"
+    },
+    "ایباک": {
+        "همه مدل های ایباک": "ebaak",
+        "VC 1200": "ebaak-vc1200"
+    },
+    "ایران دوچرخ": {
+        "همه مدل های ایران دوچرخ": "irdoco",
+        "آوا 150": "irdoco-ava150",
+        "ازما 125": "irdoco-azma125",
+        "ازما 150": "irdoco-azma150",
+        "ازما 200": "irdoco-azma200",
+        "ایردوکو 150": "irdoco-irdoco150",
+        "عرشیا 125": "irdoco-arshia125",
+        "عرشیا 150": "irdoco-arshia150",
+        "وترانو": "irdoco-veterano",
+        "ATV150": "irdoco-atv150",
+        "ATV250": "irdoco-atv250"
+    },
+    "ایژ روستا": {
+        "همه مدل های ایژ روستا": "izhroosta",
+        "350": "izhroosta-350"
+    },
+    "باجاج": {
+        "همه مدل های باجاج": "bajaj",
+        "150AS": "bajaj-150as",
+        "200AS": "bajaj-200as",
+        "اونجر": "bajaj-avenger",
+        "بوکسر 150": "bajaj-boxer150",
+        "پالس 135": "bajaj-pals135",
+        "پالس 150NS": "bajaj-pals150ns",
+        "پالس 160NS": "bajaj-pulsns160",
+        "پالس 180": "bajaj-pals180",
+        "پالس 200": "bajaj-pals200",
+        "پالس 200NS": "bajaj-pals200ns",
+        "پالس 200RS": "bajaj-pals200rs",
+        "پالس 220": "bajaj-pals220"
+    },
+    "براوو": {
+        "همه مدل های براوو": "bravo",
+        "50": "bravo-50cc"
+    },
+    "برقی متفرقه": {
+        "همه مدل های برقی متفرقه": "electricmisc",
+        "2400 وات": "electricmisc-2400w"
+    },
+    "بنلی": {
+        "همه مدل های بنلی": "benelli",
+        "249R": "benelli-tnt249r",
+        "302R": "benelli-302r",
+        "پانارئا 125": "benelli-panarea125",
+        "لئون چینو 249": "benelli-leoncino249",
+        "RACE 300": "benelli-race300",
+        "SETA 125": "benelli-seta125",
+        "TNT 135": "benelli-tnt135",
+        "TNT 15 EFI": "benelli-tnt15efi",
+        "TNT 150": "benelli-tnt150",
+        "TNT 180S": "benelli-tnt180s",
+        "TNT 249": "benelli-tnt249",
+        "TNT 249S": "benelli-tnt249s",
+        "TNT 25": "benelli-tnt25",
+        "TNT 25N": "benelli-tnt25n",
+        "TNT 300": "benelli-tnt300",
+        "VZ 125": "benelli-vz125"
+    },
+    "به پر": {
+        "همه مدل های به پر": "behpar",
+        "200": "behpar-200"
+    },
+    "پاراکس موتورز": {
+        "همه مدل های پاراکس موتورز": "paraxmotors",
+        "یوز": "paraxmotors-yooz"
+    },
+    "پرواز": {
+        "همه مدل های پرواز": "parvaz",
+        "RD 125": "parvaz-rd125"
+    },
+    "پولاریس": {
+        "همه مدل های پولاریس": "polaris",
+        "RZR 1000": "polaris-rzr1000"
+    },
+    "پیاجیو": {
+        "همه مدل های پیاجیو": "piaggio",
+        "بورلی 300S": "piaggio-300beverly",
+        "لیبرتی 150": "piaggio-liberty150",
+        "مدلی 150": "piaggio-medley150"
+    },
+    "پیشتاز موتور": {
+        "همه مدل های پیشتاز موتور": "pishtaz",
+        "H 200": "pishtaz-h200"
+    },
+    "پیشرو": {
+        "همه مدل های پیشرو": "pishro",
+        "ایکس ال": "pishro-xl",
+        "پیام 110": "pishro-payam110",
+        "پیام 125": "pishro-payam125",
+        "پیام 135": "pishro-payam135",
+        "پیشرو 200": "pishro-pishro200",
+        "تیزتک 125": "pishro-tiztak125",
+        "زیپ استارت": "pishro-zipstart"
+    },
+    "تکروسیکلت": {
+        "همه مدل های تکروسیکلت": "takro",
+        "125": "takro-125"
+    },
+    "تلاش": {
+        "همه مدل های تلاش": "talash",
+        "تلاش CG125": "talash-talash125cg"
+    },
+    "تندر شهاب": {
+        "همه مدل های تندر شهاب": "tondarshahab",
+        "تندر 125": "tondarshahab-tondar125"
+    },
+    "توسن": {
+        "همه مدل های توسن": "tosan",
+        "SR7": "tosan-sr7"
+    },
+    "توسن محركه شرق": {
+        "همه مدل های توسن محركه شرق": "tosanmohareke",
+        "باسل 125": "tosanmohareke-bassel125",
+        "تکنو واریو 150": "tosanmohareke-teknovario150"
+    },
+    "تی جی بی": {
+        "همه مدل های تی جی بی": "tgb",
+        "بلید 1000": "tgb-blade1000"
+    },
+    "تی وی اس": {
+        "همه مدل های تی وی اس": "tvs",
+        "آپاچی 180": "tvs-apachi180",
+        "آپاچی 200": "tvs-apachi200",
+        "استار  HLX 150": "tvs-starhlx150",
+        "راکز": "tvs-rockz",
+        "ژوپیتر": "tvs-jupiter",
+        "نئو 125": "tvs-neo125",
+        "ویگو": "tvs-wego",
+        "X7": "tvs-x7"
+    },
+    "تیزپر توس": {
+        "همه مدل های تیزپر توس": "tizpartoos",
+        "250": "tizpartoos-250"
+    },
+    "تیزرو": {
+        "همه مدل های تیزرو": "tizro",
+        "CGL125": "tizro-cgl125"
+    },
+    "ثاقب خودرو": {
+        "همه مدل های ثاقب خودرو": "saghebkhodro",
+        "های کلیک 150": "saghebkhodro-hiclick150"
+    },
+    "ثامن سیکلت": {
+        "همه مدل های ثامن سیکلت": "samen",
+        "رابین": "samen-robin"
+    },
+    "جهان رو": {
+        "همه مدل های جهان رو": "jahanro",
+        "CF 150": "jahanro-cf150",
+        "CF 250": "jahanro-cf250"
+    },
+    "جهان همتا": {
+        "همه مدل های جهان همتا": "jahanhamta",
+        "بلنتا Z 249": "jahanhamta-blentaz249",
+        "بلنتا Z1": "jahanhamta-blentaz1",
+        "پانیک": "jahanhamta-panik",
+        "فلات 250": "jahanhamta-falat250",
+        "فلات CRF200": "jahanhamta-falat200",
+        "هانوی 250": "jahanhamta-hanwaynk250",
+        "همتاز 150 CITY": "jahanhamta-hamtazcity150",
+        "همتاز 200": "jahanhamta-hamtaz200",
+        "همتاز سوپر 150": "jahanhamta-hamtazsuper150",
+        "همتاز EH2000": "jahanhamta-hamtazelectric2000w",
+        "همتاز RS150": "jahanhamta-hamtazrs150",
+        "همتاز SH150": "jahanhamta-hamtazsh150"
+    },
+    "چهار چرخ متفرقه": {
+        "همه مدل های چهار چرخ متفرقه": "atvmisc",
+        "200": "atvmisc-200",
+        "250": "atvmisc-250",
+        "700": "atvmisc-700"
+    },
+    "دایچی": {
+        "همه مدل های دایچی": "daiichi",
+        "125": "daiichi-125",
+        "150": "daiichi-150",
+        "250": "daiichi-250",
+        "CR 150": "daiichi-cr150",
+        "EC 3000": "daiichi-ec3000",
+        "EH 1800": "daiichi-eh1800",
+        "HX 180": "daiichi-hx180",
+        "JP 150": "daiichi-jp150",
+        "VP125": "daiichi-vp125",
+        "YD 1200 D3": "daiichi-yd1200d3"
+    },
+    "دایلیم": {
+        "همه مدل های دایلیم": "daelim",
+        "125": "daelim-125",
+        "VJF250": "daelim-vjf250"
+    },
+    "دینو": {
+        "همه مدل های دینو": "dino",
+        "150CC": "dino-150cc",
+        "200CC": "dino-200cc",
+        "250CC": "dino-250cc",
+        "فيدل 200": "dino-fiddel",
+        "کاوان 125": "dino-kavan125",
+        "کاوان 150": "dino-kavan150",
+        "کاوان 150S": "dino-kavans",
+        "ویند 200": "dino-wind200",
+        "CL 150": "dino-cl150",
+        "Z2": "dino-z2"
+    },
+    "رگال رپتور": {
+        "همه مدل های رگال رپتور": "regalraptor",
+        "اسپایدر": "regalraptor-spyder",
+        "دیتونا": "regalraptor-daytona"
+    },
+    "روان سیکلت": {
+        "همه مدل های روان سیکلت": "ravancyclet",
+        "تریل 200": "ravancyclet-trail200",
+        "QM 200": "ravancyclet-qm200"
+    },
+    "زمرد کویر": {
+        "همه مدل های زمرد کویر": "zomorodkavir",
+        "125 اس": "zomorodkavir-125s"
+    },
+    "زونتس": {
+        "همه مدل های زونتس": "zontes",
+        "250S": "zontes-250s",
+        "N2 230": "zontes-n2230",
+        "Z2 150 G1": "zontes-z2150g1",
+        "Z4 250 R": "zontes-z4250r"
+    },
+    "زیگما": {
+        "همه مدل های زیگما": "xigma",
+        "125": "xigma-125"
+    },
+    "سالار گستر": {
+        "همه مدل های سالار گستر": "salargostar",
+        "های کلیک": "salargostar-hiclick"
+    },
+    "سپهر خودرو": {
+        "همه مدل های سپهر خودرو": "sepehrkhodro",
+        "کلیک 150": "sepehrkhodro-click150"
+    },
+    "سوزوکی": {
+        "همه مدل های سوزوکی": "suzuki",
+        "ادرس": "suzuki-address",
+        "اینازوما GW250": "suzuki-inazuma",
+        "بی کینگ 1400": "suzuki-bking1400",
+        "GSX 250 R": "suzuki-gsx250r",
+        "LETS 4G": "suzuki-lets4g",
+        "OZARK 250": "suzuki-ozark250",
+        "RG 250": "suzuki-rg250",
+        "RM 125": "suzuki-rm125",
+        "RMX 450Z": "suzuki-rmx450z",
+        "V-Strom 250": "suzuki-vstorm250"
+    },
+    "سوکو": {
+        "همه مدل های سوکو": "soco",
+        "سوپر سوکو": "soco-supersoco"
+    },
+    "سی اف موتو": {
+        "همه مدل های سی اف موتو": "cfmoto",
+        "CF 250 NK": "cfmoto-cf250nk",
+        "CF 250 SR": "cfmoto-cf250sr",
+        "CFORCE 1000": "cfmoto-cforce1000",
+        "CFORCE 625": "cfmoto-cforce625",
+        "NK 150": "cfmoto-nk150"
+    },
+    "سی جی متفرقه": {
+        "همه مدل های سی جی متفرقه": "cgmisc",
+        "125": "cgmisc-125"
+    },
+    "شاهین موتور": {
+        "همه مدل های شاهین موتور": "shahin",
+        "دلتا CG 125CDI": "shahin-delta125cgcdi",
+        "دلتا L 125 اسپرت": "shahin-delta125lsport",
+        "دلتا LF 150": "shahin-delta150lf",
+        "دلتا LX 250 ENDRO": "shahin-delta250lxendro",
+        "دلتا SX2": "shahin-deltasx2",
+        "لیفان 125 CDI": "shahin-lifan125cdi",
+        "لیفان 200 KP": "shahin-lifan200kp"
+    },
+    "شوکا": {
+        "همه مدل های شوکا": "shooka",
+        "SYM 125": "shooka-sym125"
+    },
+    "طرح ویو": {
+        "همه مدل های طرح ویو": "wavemisc",
+        "125": "wavemisc-125",
+        "150": "wavemisc-150"
+    },
+    "کافه ریسر": {
+        "همه مدل های کافه ریسر": "caferacer",
+        "200": "caferacer-200"
+    },
+    "کاوازاکی": {
+        "همه مدل های کاوازاکی": "kawasaki",
+        "استرلا 250": "kawasaki-estrella250",
+        "بروت فورس 300": "kawasaki-300bruteforce",
+        "فیوری 125": "kawasaki-fury125",
+        "نینجا 250": "kawasaki-ninja250",
+        "نینجا 250SL": "kawasaki-ninja250sl",
+        "نینجا 300": "kawasaki-ninja300",
+        "نینجا H2": "kawasaki-ninjah2",
+        "نینجا Z1000": "kawasaki-ninjaz1000",
+        "نینجا ZX-25R": "kawasaki-ninjazx25r",
+        "ورسیس X250": "kawasaki-versysx250",
+        "FURY 125": "kawasaki-fury125",
+        "Z1000": "kawasaki-z1000",
+        "Z250": "kawasaki-z250",
+        "Z300": "kawasaki-z300"
+    },
+    "کایو": {
+        "همه مدل های کایو": "kayo",
+        "كراس 250": "kayo-cross250",
+        "AU 200": "kayo-atv200"
+    },
+    "کبیر موتور": {
+        "همه مدل های کبیر موتور": "kabir",
+        "رایز NVX 150i": "kabir-risenvx150i",
+        "کلیک آپ 150i": "kabir-clickup150i",
+        "CDI125": "kabir-cdi125",
+        "EVO150": "kabir-evo150",
+        "KLD 200": "kabir-kld200"
+    },
+    "کثیر": {
+        "همه مدل های کثیر": "kasir",
+        "رهرو 150": "kasir-rahro150",
+        "رهرو پلاس 150": "kasir-rahroplus150",
+        "رهرو CG125CDI": "kasir-rahro125cgcdi"
+    },
+    "کن ام": {
+        "همه مدل های کن ام": "canam",
+        "اسپایدر 300": "canam-spyder300",
+        "اسپایدر F3": "canam-spyderf3",
+        "اوتلندر 1000": "canam-1000outlander",
+        "ماوریک  توربو 1000": "canam-maverickturbo1000",
+        "ماوریک  X3 MAX توربو": "canam-maverickx3maxturbo",
+        "ATV 1000": "canam-atv1000",
+        "ATV 250": "canam-atv250"
+    },
+    "کوادرو": {
+        "همه مدل های کوادرو": "quadro",
+        "400": "quadro-400"
+    },
+    "کویر موتور": {
+        "همه مدل های کویر موتور": "kavirmotor",
+        "125": "kavirmotor-radisson_125",
+        "150": "kavirmotor-radisson_150",
+        "250": "kavirmotor-radisson_250",
+        "رادیسون": "kavirmotor-radisson",
+        "کریستال": "kavirmotor-crystal",
+        "C2 249": "kavirmotor-c2249",
+        "CDI200": "kavirmotor-200cdi",
+        "ES2 1500": "kavirmotor-es21500",
+        "ES5 1500": "kavirmotor-es51500",
+        "ES8 1500": "kavirmotor-es81500",
+        "GLX150": "kavirmotor-150glx",
+        "MAD Truck": "kavirmotor-madtruck",
+        "N2": "kavirmotor-n2",
+        "RKV 200": "kavirmotor-rkv200",
+        "S1 125": "kavirmotor-s1",
+        "S2 150": "kavirmotor-s2150",
+        "S2 ADV 150": "kavirmotor-s2",
+        "ST3-220": "kavirmotor-st3",
+        "T2 248 N": "kavirmotor-t2248n",
+        "T2-250": "kavirmotor-t2250",
+        "X4 400": "kavirmotor-x4400"
+    },
+    "کی تی ام": {
+        "همه مدل های کی تی ام": "ktm",
+        "ادونچر 250": "ktm-250adventure",
+        "دوک 200": "ktm-duke200",
+        "دوک 250": "ktm-duke250",
+        "EXC-F 250": "ktm-excf250",
+        "EXC-F 250 6DAYS": "ktm-6days",
+        "RC 200": "ktm-rc200",
+        "RC 250": "ktm-rc250"
+    },
+    "کی وی": {
+        "همه مدل های کی وی": "keeway",
+        "ویسته 249": "keeway-vieste249",
+        "CITY 150 EFI": "keeway-city150efi",
+        "e-zi": "keeway-ezi"
+    },
+    "گس گس": {
+        "همه مدل های گس گس": "gasgas",
+        "TXT PRO 250": "gasgas-txtpro250"
+    },
+    "لم": {
+        "همه مدل های لم": "lem",
+        "65": "lem-65cc"
+    },
+    "لیفان": {
+        "همه مدل های لیفان": "lifan",
+        "125": "lifan-125",
+        "200": "lifan-200",
+        "250": "lifan-250",
+        "KPS 200": "lifan-kps200"
+    },
+    "مادو موتور": {
+        "همه مدل های مادو موتور": "madomotor",
+        "220 (2000 وات)": "madomotor-2202000w",
+        "230 (3000 وات)": "madomotor-2303000w"
+    },
+    "متین خودرو": {
+        "همه مدل های متین خودرو": "matinkhodro",
+        "تریل MKZ200": "matinkhodro-trailmkz200",
+        "ساوین 125": "matinkhodro-savin125",
+        "ساوین MKZ200": "matinkhodro-savinmkz200"
+    },
+    "مدناس": {
+        "همه مدل های مدناس": "modenas",
+        "گالکسی 130GT": "modenas-galaxygt130"
+    },
+    "مگلی": {
+        "همه مدل های مگلی": "megelli",
+        "200R": "megelli-200r"
+    },
+    "موندیال": {
+        "همه مدل های موندیال": "mondial",
+        "HPS 249": "mondial-hps249"
+    },
+    "نیرو محرکه": {
+        "همه مدل های نیرو محرکه": "nmir",
+        "براوو": "nmir-bravo",
+        "نامی KR150": "nmir-namikr150",
+        "نامی QM170": "nmir-namiqm170"
+    },
+    "نیرو موتور شیراز": {
+        "همه مدل های نیرو موتور شیراز": "niroomotorshiraz",
+        "احسان 150": "niroomotorshiraz-ehsan150",
+        "احسان 200 تریل": "niroomotorshiraz-ehsan200gy",
+        "پرواز 100gl": "niroomotorshiraz-parvaz100gl",
+        "پرواز 200": "niroomotorshiraz-parvaz200",
+        "پرواز 200gy": "niroomotorshiraz-parvaz200gy",
+        "دایچی EC3000": "niroomotorshiraz-daichiec3000",
+        "گلکسی CL150": "niroomotorshiraz-galaxycl150",
+        "گلکسی J200": "niroomotorshiraz-galaxyj200",
+        "گلکسی JX250": "niroomotorshiraz-galaxyjx250",
+        "گلکسی NA180": "niroomotorshiraz-galaxyna180",
+        "گلکسی NH180": "niroomotorshiraz-galaxynh180",
+        "گلکسی SF180": "niroomotorshiraz-galaxysf180",
+        "هیلتون 1500 وات": "niroomotorshiraz-hilton1500"
+    },
+    "نیو": {
+        "همه مدل های نیو": "niu",
+        "N1S": "niu-n1s"
+    },
+    "وسپا": {
+        "همه مدل های وسپا": "vespa",
+        "946-125CC": "vespa-946",
+        "946-155CC": "vespa-946155cc",
+        "اس ایکس ال 150": "vespa-sxl150",
+        "اس ایکس ال 3V TECH": "vespa-sxl3vtech",
+        "اسپرینت 125": "vespa-sprint125",
+        "اسپرینت 150S": "vespa-sprint150",
+        "ال ایکس 125": "vespa-lx125",
+        "ال ایکس 150i": "vespa-lx150i",
+        "پریماورا 150": "vespa-primavera150",
+        "پریماورا 150 تورینگ": "vespa-primavera150touring",
+        "پریماورا 150 YACHT CLUB": "vespa-primavera150yachtclub",
+        "پی ایکس 200": "vespa-px200",
+        "جی تی اس 250": "vespa-gts250",
+        "جی تی اس 250 SUPER SPORT": "vespa-gts250supersport",
+        "جی تی اس 250 SUPER TECH": "vespa-gts250supertech",
+        "جی تی اس 250 YACHT CLUB": "vespa-gts250yachtclub",
+        "جی تی اس 300": "vespa-gts300",
+        "جی تی وی 300": "vespa-gtv300",
+        "وی ایکس ال 150": "vespa-vxl150",
+        "وی ایکس ال 3V TECH": "vespa-vxl3vtech"
+    },
+    "هارتفورد": {
+        "همه مدل های هارتفورد": "hartford",
+        "HD 200": "hartford-hd200"
+    },
+    "هارلی دیویدسون": {
+        "همه مدل های هارلی دیویدسون": "harleydavidson",
+        "متفرقه": "harleydavidson-misc"
+    },
+    "هاسکوارنا": {
+        "همه مدل های هاسکوارنا": "husqvarna",
+        "اسوارتپیلن 250": "husqvarna-svartpilen250"
+    },
+    "هانی موتور": {
+        "همه مدل های هانی موتور": "hanimotor",
+        "کلیک 150": "hanimotor-click150",
+        "CRF 249": "hanimotor-crf249"
+    },
+    "های پرو": {
+        "همه مدل های های پرو": "hipro",
+        "250": "hipro-250"
+    },
+    "های کیلیک": {
+        "همه مدل های های کیلیک": "hiclick",
+        "150": "hiclick-150"
+    },
+    "هدا": {
+        "همه مدل های هدا": "hoda",
+        "کلیک 150CH": "hoda-click150ch"
+    },
+    "هوندا": {
+        "همه مدل های هوندا": "honda",
+        "50": "honda-50",
+        "اسکوپی": "honda-scoopy",
+        "بیت 110": "honda-beat110",
+        "سوپرکاب 70": "honda-supercub70",
+        "کلیک 125": "honda-click125",
+        "کلیک 150": "honda-click150",
+        "کلیک 165": "honda-click165",
+        "کلیک واریو 160": "honda-clickvario160",
+        "گروم 200": "honda-grom200",
+        "گرینو": "honda-grino",
+        "گلدوینگ": "honda-goldwing",
+        "ویو 125": "honda-wave125",
+        "ADV 150": "honda-adv150",
+        "CB 1300": "honda-cb1300",
+        "CB 150": "honda-cb150",
+        "CB 190": "honda-cb190",
+        "CBF 150": "honda-cbf150",
+        "CBR 250": "honda-cbr250",
+        "CD 200": "honda-cd200",
+        "CDI 125": "honda-cd1125",
+        "CG 125": "honda-cg125",
+        "CGL 150": "honda-cgl150",
+        "CR 250": "honda-cr250",
+        "CRF 250": "honda-crf250",
+        "CRF 250 L": "honda-crf250l",
+        "CRM 250": "honda-crm250",
+        "FOUR K 750": "honda-750fourk",
+        "PCX 150": "honda-pcx150",
+        "PCX 160": "honda-pcx160"
+    },
+    "هیرمن": {
+        "همه مدل های هیرمن": "hirman",
+        "CDI 125": "hirman-cdi125"
+    },
+    "هیرو": {
+        "همه مدل های هیرو": "hero",
+        "هانک": "hero-hunk"
+    },
+    "هیوسانگ": {
+        "همه مدل های هیوسانگ": "hyosung",
+        "اکوئیلا 250": "hyosung-aquila250",
+        "جی تی 250RC": "hyosung-gt250rc"
+    },
+    "یاماها": {
+        "همه مدل های یاماها": "yamaha",
+        "گرند فیلانو 125": "yamaha-grandfilano125",
+        "مینی 80": "yamaha-mini80",
+        "AEROX 155": "yamaha-aerox155",
+        "FL 125": "yamaha-fl125",
+        "MT 25": "yamaha-mt250",
+        "MX King": "yamaha-mxking",
+        "NMAX 155": "yamaha-nmax155",
+        "QBIX 125": "yamaha-qbix125",
+        "R 25": "yamaha-r25",
+        "VMAX": "yamaha-vmax",
+        "WR 155": "yamaha-wr155",
+        "WR 250F": "yamaha-wr250f",
+        "XMAX 250": "yamaha-xmax250",
+        "XSR 155": "yamaha-xsr155",
+        "YB 125": "yamaha-yb125",
+        "YFZ 450": "yamaha-yfz450",
+        "YZF R15": "yamaha-r15",
+        "YZF R25": "yamaha-r25",
+        "YZF R3": "yamaha-yzfr3"
+    }
+}
